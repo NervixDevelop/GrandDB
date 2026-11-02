@@ -1,10 +1,20 @@
 [
   {
-    "id": "umvzupdyur4t",
+    "id": "umvzuzye01tg",
     "title": "ID2420",
     "cat": "cloth",
     "sub": "Костюм",
     "img": "ID2420.webp (1512×1512) https://share.google/xXfHEq4HwGHVoXfZ6",
+    "rarity": "Необычный",
+    "gender": "Мужской",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "umvzv3dxpsuy",
+    "title": "ID2420",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "ID2420.webp (1512×1512) https://raw.githubusercontent.com/NervixDevelop/GrandDB/refs/heads/main/images/ID2420.webp",
     "rarity": "Необычный",
     "gender": "Мужской",
     "added": "2026-11-02"

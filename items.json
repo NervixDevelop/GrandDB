@@ -188,11 +188,24 @@
     "title": "Bentley Milliner Bacalar",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw2aqh74bkw.webp",
     "brand": "Bentley",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-04",
     "iv": 1793807799555
+  },
+  {
+    "id": "umw2aun45cpz",
+    "title": "BigBen Monstertruck",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw2aun45cpz.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 3500000,
+    "added": "2026-11-04",
+    "iv": 1793808012536
   }
 ]

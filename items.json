@@ -302,9 +302,18 @@
     "title": "Щит Амазонки",
     "cat": "accessories",
     "sub": "Пр. рука",
+    "type": "Пр. рука",
     "img": "images/umw2pst6rjco.webp",
     "rarity": "Обычный",
     "added": "2026-11-04",
     "iv": 1793833045976
+  },
+  {
+    "id": "umw2q496zgbz",
+    "title": "Сегодня мой день рождения",
+    "cat": "accessories",
+    "sub": "Голова",
+    "rarity": "Необычный",
+    "added": "2026-11-04"
   }
 ]

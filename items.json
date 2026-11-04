@@ -201,11 +201,24 @@
     "title": "BigBen Monstertruck",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw2aun45cpz.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-04",
     "iv": 1793808012536
+  },
+  {
+    "id": "umw2ow10g5zk",
+    "title": "BMW 2002 Turbo",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw2ow10g5zk.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 550000,
+    "added": "2026-11-04",
+    "iv": 1793831547405
   }
 ]

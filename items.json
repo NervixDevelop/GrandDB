@@ -214,11 +214,22 @@
     "title": "BMW 2002 Turbo",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw2ow10g5zk.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 550000,
     "added": "2026-11-04",
     "iv": 1793831547405
+  },
+  {
+    "id": "umw2ozm7sm38",
+    "title": "BMW 760I G70 Mansory 2024",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-04"
   }
 ]

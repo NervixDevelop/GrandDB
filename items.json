@@ -238,9 +238,18 @@
     "title": "Шарф Gucci",
     "cat": "accessories",
     "sub": "Голова",
+    "type": "Голова",
     "img": "images/umw2p1y8roup.webp",
     "rarity": "Необычный",
     "added": "2026-11-04",
     "iv": 1793831872874
+  },
+  {
+    "id": "umw2p75v39pi",
+    "title": "Шлем-кола",
+    "cat": "accessories",
+    "sub": "Голова",
+    "rarity": "Необычный",
+    "added": "2026-11-04"
   }
 ]

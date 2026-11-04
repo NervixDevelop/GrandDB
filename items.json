@@ -26,10 +26,22 @@
     "title": "Скин (ID: 16)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw265kabi20.webp",
+    "gender": "Мужской",
+    "rarity": "Необычный",
+    "added": "2026-11-04",
+    "iv": 1793799991933
+  },
+  {
+    "id": "umw26lnqw7ec",
+    "title": "Скин (ID: 34)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw26lnqw7ec.webp",
     "rarity": "Необычный",
     "gender": "Мужской",
     "added": "2026-11-04",
-    "iv": 1793799991933
+    "iv": 1793800782042
   }
 ]

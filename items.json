@@ -249,7 +249,18 @@
     "title": "Шлем-кола",
     "cat": "accessories",
     "sub": "Голова",
+    "type": "Голова",
     "rarity": "Необычный",
     "added": "2026-11-04"
+  },
+  {
+    "id": "umw2p9ua3ayu",
+    "title": "Робо-топор",
+    "cat": "accessories",
+    "sub": "Пр. рука",
+    "img": "images/umw2p9ua3ayu.webp",
+    "rarity": "Обычный",
+    "added": "2026-11-04",
+    "iv": 1793832473205
   }
 ]

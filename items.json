@@ -109,12 +109,25 @@
     "title": "AMG GT XX RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw291ht6h90.webp",
     "brand": "Mercedes-Benz",
+    "gid": "amg_gt_xx_rgb",
     "speed": 0,
     "price": 100000000,
-    "gid": "amg_gt_xx_rgb",
     "added": "2026-11-04",
     "iv": 1793804924841
+  },
+  {
+    "id": "umw299v22ltm",
+    "title": "Aston Martin DB11",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw299v22ltm.webp",
+    "brand": "Aston Martin",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-04",
+    "iv": 1793805766939
   }
 ]

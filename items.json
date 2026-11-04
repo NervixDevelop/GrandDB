@@ -93,12 +93,14 @@
     "iv": 1793803784604
   },
   {
-    "id": "umw28gkiq4al",
-    "title": "Скин (ID: 101)",
+    "id": "umw28x4k418b",
+    "title": "Скин (ID: 104)",
     "cat": "cloth",
     "sub": "Костюм",
-    "rarity": "Обычный",
+    "img": "images/umw28x4k418b.webp",
+    "rarity": "Необычный",
     "gender": "Мужской",
-    "added": "2026-11-04"
+    "added": "2026-11-04",
+    "iv": 1793804760759
   }
 ]

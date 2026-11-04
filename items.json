@@ -10,12 +10,14 @@
     "added": "2026-11-04"
   },
   {
-    "id": "umw25yii6z54",
+    "id": "umw263ie342e",
     "title": "Скин (ID: 15)",
     "cat": "cloth",
     "sub": "Костюм",
+    "img": "images/umw263ie342e.webp",
     "rarity": "Необычный",
     "gender": "Мужской",
-    "added": "2026-11-04"
+    "added": "2026-11-04",
+    "iv": 1793799903424
   }
 ]

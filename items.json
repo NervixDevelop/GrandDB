@@ -291,9 +291,20 @@
     "title": "Модный заяц",
     "cat": "accessories",
     "sub": "Плечи",
+    "type": "Плечи",
     "img": "images/umw2pqcs4wqf.webp",
     "rarity": "Обычный",
     "added": "2026-11-04",
     "iv": 1793832905180
+  },
+  {
+    "id": "umw2pst6rjco",
+    "title": "Щит Амазонки",
+    "cat": "accessories",
+    "sub": "Пр. рука",
+    "img": "images/umw2pst6rjco.webp",
+    "rarity": "Обычный",
+    "added": "2026-11-04",
+    "iv": 1793833045976
   }
 ]

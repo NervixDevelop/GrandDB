@@ -258,9 +258,20 @@
     "title": "Робо-топор",
     "cat": "accessories",
     "sub": "Пр. рука",
+    "type": "Пр. рука",
     "img": "images/umw2p9ua3ayu.webp",
     "rarity": "Обычный",
     "added": "2026-11-04",
     "iv": 1793832473205
+  },
+  {
+    "id": "umw2pjgrw4pq",
+    "title": "Шарф Nike Red",
+    "cat": "accessories",
+    "sub": "Голова",
+    "img": "images/umw2pjgrw4pq.webp",
+    "rarity": "Необычный",
+    "added": "2026-11-04",
+    "iv": 1793832598314
   }
 ]

@@ -335,9 +335,21 @@
     "title": "Головной убор вождя",
     "cat": "accessories",
     "sub": "Голова",
+    "type": "Голова",
     "img": "images/umw2r052ndw3.webp",
     "rarity": "Обычный",
     "added": "2026-11-04",
     "iv": 1793835333212
+  },
+  {
+    "id": "umw2r8r8kywz",
+    "title": "Скин (ID: 107)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw2r8r8kywz.webp",
+    "rarity": "Необычный",
+    "gender": "Мужской",
+    "added": "2026-11-04",
+    "iv": 1793836053877
   }
 ]

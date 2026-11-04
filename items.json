@@ -280,9 +280,20 @@
     "title": "Сумка музыканта",
     "cat": "accessories",
     "sub": "Лев. рука",
+    "type": "Лев. рука",
     "img": "images/umw2pm5hjghq.webp",
     "rarity": "Необычный",
     "added": "2026-11-04",
     "iv": 1793832791225
+  },
+  {
+    "id": "umw2pqcs4wqf",
+    "title": "Модный заяц",
+    "cat": "accessories",
+    "sub": "Плечи",
+    "img": "images/umw2pqcs4wqf.webp",
+    "rarity": "Обычный",
+    "added": "2026-11-04",
+    "iv": 1793832905180
   }
 ]

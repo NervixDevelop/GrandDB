@@ -73,10 +73,20 @@
     "title": "Скин (ID: 81)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw27tjgeoc4.webp",
-    "rarity": "Необычный",
     "gender": "Мужской",
+    "rarity": "Необычный",
     "added": "2026-11-04",
     "iv": 1793803151457
+  },
+  {
+    "id": "umw2831b3xmx",
+    "title": "Скин (ID: 85)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "rarity": "Необычный",
+    "gender": "Женский",
+    "added": "2026-11-04"
   }
 ]

@@ -227,9 +227,20 @@
     "title": "BMW 760I G70 Mansory 2024",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "brand": "BMW",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-04"
+  },
+  {
+    "id": "umw2p1y8roup",
+    "title": "Шарф Gucci",
+    "cat": "accessories",
+    "sub": "Голова",
+    "img": "images/umw2p1y8roup.webp",
+    "rarity": "Необычный",
+    "added": "2026-11-04",
+    "iv": 1793831872874
   }
 ]

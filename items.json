@@ -1,21 +1,12 @@
 [
   {
     "id": "umvzuzye01tg",
-    "title": "ID2420",
+    "title": "Скин (ID: 2420)",
     "cat": "cloth",
     "sub": "Костюм",
-    "img": "ID2420.webp (1512×1512) https://share.google/xXfHEq4HwGHVoXfZ6",
+    "img": "images/ID2420.webp",
     "rarity": "Необычный",
     "gender": "Мужской",
     "added": "2026-11-02"
-  },
-  {
-    "id": "umw24gqftphy",
-    "title": "Скин (ID: 14)",
-    "cat": "cloth",
-    "sub": "Костюм",
-    "rarity": "Необычный",
-    "gender": "Общий",
-    "added": "2026-11-04"
   }
 ]

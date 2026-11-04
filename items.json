@@ -269,9 +269,20 @@
     "title": "Шарф Nike Red",
     "cat": "accessories",
     "sub": "Голова",
+    "type": "Голова",
     "img": "images/umw2pjgrw4pq.webp",
     "rarity": "Необычный",
     "added": "2026-11-04",
     "iv": 1793832598314
+  },
+  {
+    "id": "umw2pm5hjghq",
+    "title": "Сумка музыканта",
+    "cat": "accessories",
+    "sub": "Лев. рука",
+    "img": "images/umw2pm5hjghq.webp",
+    "rarity": "Необычный",
+    "added": "2026-11-04",
+    "iv": 1793832791225
   }
 ]

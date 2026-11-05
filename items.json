@@ -1220,10 +1220,22 @@
     "title": "Скин (ID: 2365)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw3pt6e166p.webp",
-    "rarity": "Необычный",
     "gender": "Мужской",
+    "rarity": "Необычный",
     "added": "2026-11-05",
     "iv": 1793893497476
+  },
+  {
+    "id": "umw3pvgop9dt",
+    "title": "Кроссовки «Red Flare»",
+    "cat": "cloth",
+    "sub": "Обувь",
+    "img": "images/umw3pvgop9dt.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-05",
+    "iv": 1793893640571
   }
 ]

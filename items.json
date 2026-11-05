@@ -778,10 +778,22 @@
     "title": "Скин (ID: 2497)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw3kzw7o7gg.webp",
+    "gender": "Женский",
+    "rarity": "Необычный",
+    "added": "2026-11-05",
+    "iv": 1793885617965
+  },
+  {
+    "id": "umw3l6p899ho",
+    "title": "Скин (ID: 2499)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw3l6p899ho.webp",
     "rarity": "Необычный",
     "gender": "Женский",
     "added": "2026-11-05",
-    "iv": 1793885617965
+    "iv": 1793885892968
   }
 ]

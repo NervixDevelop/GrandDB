@@ -1352,10 +1352,22 @@
     "title": "Шорты спортивные «Лазурный край»",
     "cat": "cloth",
     "sub": "Низ",
+    "type": "Низ",
     "img": "images/umw45d5z1n6g.webp",
+    "gender": "Женский",
+    "rarity": "Обычный",
+    "added": "2026-11-05",
+    "iv": 1793919623411
+  },
+  {
+    "id": "umw45ff0yhdd",
+    "title": "Легинсы Спортивные «Tropical Sport»",
+    "cat": "cloth",
+    "sub": "Низ",
+    "img": "images/umw45ff0yhdd.webp",
     "rarity": "Обычный",
     "gender": "Женский",
     "added": "2026-11-05",
-    "iv": 1793919623411
+    "iv": 1793919913216
   }
 ]

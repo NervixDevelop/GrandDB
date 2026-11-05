@@ -1316,10 +1316,22 @@
     "title": "Кроссовки «Lime Punch»",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw455m4kak8.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793919316971
+  },
+  {
+    "id": "umw458tjpwuv",
+    "title": "Пляжные сланцы «Летний берег» №3",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw458tjpwuv.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-05",
+    "iv": 1793919422471
   }
 ]

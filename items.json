@@ -382,10 +382,22 @@
     "title": "Скин (ID: 136)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw2vkhgazo4.webp",
-    "rarity": "Необычный",
     "gender": "Мужской",
+    "rarity": "Необычный",
     "added": "2026-11-05",
     "iv": 1793842874797
+  },
+  {
+    "id": "umw2vqfqpp3j",
+    "title": "Скин (ID: 140)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw2vqfqpp3j.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-05",
+    "iv": 1793843074378
   }
 ]

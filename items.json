@@ -1244,10 +1244,22 @@
     "title": "Слипоны «Sand Drift»",
     "cat": "cloth",
     "sub": "Обувь",
+    "type": "Обувь",
     "img": "images/umw3pyhyrisw.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-05",
+    "iv": 1793893711325
+  },
+  {
+    "id": "umw3pzzsje9s",
+    "title": "Кроссовки «Storm Grey»",
+    "cat": "cloth",
+    "sub": "Обувь",
+    "img": "images/umw3pzzsje9s.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-05",
-    "iv": 1793893711325
+    "iv": 1793893806812
   }
 ]

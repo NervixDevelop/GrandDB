@@ -1232,10 +1232,22 @@
     "title": "Кроссовки «Red Flare»",
     "cat": "cloth",
     "sub": "Обувь",
+    "type": "Обувь",
     "img": "images/umw3pvgop9dt.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-05",
+    "iv": 1793893640571
+  },
+  {
+    "id": "umw3pyhyrisw",
+    "title": "Слипоны «Sand Drift»",
+    "cat": "cloth",
+    "sub": "Обувь",
+    "img": "images/umw3pyhyrisw.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-05",
-    "iv": 1793893640571
+    "iv": 1793893711325
   }
 ]

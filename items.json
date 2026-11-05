@@ -562,10 +562,22 @@
     "title": "Скин (ID: 2321)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw33r5uji03.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793856449474
+  },
+  {
+    "id": "umw33teppasb",
+    "title": "Скин (ID: 2322)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw33teppasb.webp",
+    "rarity": "Необычный",
+    "gender": "Женский",
+    "added": "2026-11-05",
+    "iv": 1793856542937
   }
 ]

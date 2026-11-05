@@ -1292,10 +1292,22 @@
     "title": "Ботинки «Стрит-стайл» №1",
     "cat": "cloth",
     "sub": "Обувь",
+    "type": "Обувь",
     "img": "images/umw44yuyxk4h.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793918998086
+  },
+  {
+    "id": "umw4521wslhl",
+    "title": "Слипоны «Checkmate»",
+    "cat": "cloth",
+    "sub": "Обувь",
+    "img": "images/umw4521wslhl.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-05",
+    "iv": 1793919167001
   }
 ]

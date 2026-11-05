@@ -1328,10 +1328,22 @@
     "title": "Пляжные сланцы «Летний берег» №3",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw458tjpwuv.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793919422471
+  },
+  {
+    "id": "umw45b332job",
+    "title": "Джоггеры «Urban Camo»",
+    "cat": "cloth",
+    "sub": "Низ",
+    "img": "images/umw45b332job.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-05",
+    "iv": 1793919519556
   }
 ]

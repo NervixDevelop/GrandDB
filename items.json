@@ -1256,10 +1256,22 @@
     "title": "Кроссовки «Storm Grey»",
     "cat": "cloth",
     "sub": "Обувь",
+    "type": "Обувь",
     "img": "images/umw3pzzsje9s.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793893806812
+  },
+  {
+    "id": "umw3q241uekd",
+    "title": "Пляжные сланцы «Летний берег» №1",
+    "cat": "cloth",
+    "sub": "Обувь",
+    "img": "images/umw3q241uekd.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-05",
+    "iv": 1793893882475
   }
 ]

@@ -346,10 +346,22 @@
     "title": "Скин (ID: 101)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umw2usl11xma.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793841653177
+  },
+  {
+    "id": "umw2v1jp09gw",
+    "title": "Скин (ID: 107)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umw2v1jp09gw.webp",
+    "rarity": "Необычный",
+    "gender": "Мужской",
+    "added": "2026-11-05",
+    "iv": 1793842439184
   }
 ]

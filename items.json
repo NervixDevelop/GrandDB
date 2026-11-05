@@ -1340,10 +1340,22 @@
     "title": "Джоггеры «Urban Camo»",
     "cat": "cloth",
     "sub": "Низ",
+    "type": "Низ",
     "img": "images/umw45b332job.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-05",
     "iv": 1793919519556
+  },
+  {
+    "id": "umw45d5z1n6g",
+    "title": "Шорты спортивные «Лазурный край»",
+    "cat": "cloth",
+    "sub": "Низ",
+    "img": "images/umw45d5z1n6g.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-05",
+    "iv": 1793919623411
   }
 ]

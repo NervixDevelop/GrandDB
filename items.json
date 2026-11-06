@@ -1580,10 +1580,22 @@
     "title": "Жакет «Old School»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4dxpdu1gi.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793938021335
+  },
+  {
+    "id": "umw4gdqka9a4",
+    "title": "Рубашка «Ocean Breeze»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4gdqka9a4.webp",
+    "rarity": "Необычный",
+    "gender": "Мужской",
+    "added": "2026-11-06",
+    "iv": 1793938178535
   }
 ]

@@ -1436,10 +1436,22 @@
     "title": "Куртка «B-3 Bomber»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw485ujojas.webp",
-    "rarity": "Эпический",
     "gender": "Мужской",
+    "rarity": "Эпический",
     "added": "2026-11-06",
     "iv": 1793924329336
+  },
+  {
+    "id": "umw488974dmq",
+    "title": "Кроп-олимпийка «Skyline Tropical»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw488974dmq.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-06",
+    "iv": 1793925040374
   }
 ]

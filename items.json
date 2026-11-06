@@ -1388,10 +1388,22 @@
     "title": "Шорты спортивные «Арт-акцент»",
     "cat": "cloth",
     "sub": "Низ",
+    "type": "Низ",
     "img": "images/umw47vunftu3.webp",
+    "gender": "Женский",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793923840427
+  },
+  {
+    "id": "umw47xup5zmj",
+    "title": "Легинсы спортивные «Aqua Flow»",
+    "cat": "cloth",
+    "sub": "Низ",
+    "img": "images/umw47xup5zmj.webp",
     "rarity": "Обычный",
     "gender": "Женский",
     "added": "2026-11-06",
-    "iv": 1793923840427
+    "iv": 1793924029527
   }
 ]

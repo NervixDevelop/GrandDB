@@ -1448,10 +1448,22 @@
     "title": "Кроп-олимпийка «Skyline Tropical»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw488974dmq.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793925040374
+  },
+  {
+    "id": "umw48nhj9rbx",
+    "title": "Рубашка «Sand & Palms»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw48nhj9rbx.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-06",
+    "iv": 1793925120482
   }
 ]

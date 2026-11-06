@@ -1556,10 +1556,22 @@
     "title": "Худи «Pastel Mix»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4dta1lw0d.webp",
+    "gender": "Женский",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793933805201
+  },
+  {
+    "id": "umw4dvd6duxj",
+    "title": "Топ пляжный «Тропический цветок»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4dvd6duxj.webp",
     "rarity": "Обычный",
     "gender": "Женский",
     "added": "2026-11-06",
-    "iv": 1793933805201
+    "iv": 1793933915316
   }
 ]

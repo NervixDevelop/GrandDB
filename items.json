@@ -1424,10 +1424,22 @@
     "title": "Шорты «Океанский всплеск»",
     "cat": "cloth",
     "sub": "Низ",
+    "type": "Низ",
     "img": "images/umw483x33syn.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793924218194
+  },
+  {
+    "id": "umw485ujojas",
+    "title": "Куртка «B-3 Bomber»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw485ujojas.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-06",
+    "iv": 1793924329336
   }
 ]

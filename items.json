@@ -1460,10 +1460,22 @@
     "title": "Рубашка «Sand & Palms»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw48nhj9rbx.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793925120482
+  },
+  {
+    "id": "umw48p7d7jlu",
+    "title": "Джемпер «Silver Heather»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw48p7d7jlu.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-06",
-    "iv": 1793925120482
+    "iv": 1793925208112
   }
 ]

@@ -1400,10 +1400,22 @@
     "title": "Легинсы спортивные «Aqua Flow»",
     "cat": "cloth",
     "sub": "Низ",
+    "type": "Низ",
     "img": "images/umw47xup5zmj.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793924029527
+  },
+  {
+    "id": "umw481vd95fn",
+    "title": "Юбка ярусная «Классический жемчуг»",
+    "cat": "cloth",
+    "sub": "Низ",
+    "img": "images/umw481vd95fn.webp",
+    "rarity": "Необычный",
+    "gender": "Женский",
+    "added": "2026-11-06",
+    "iv": 1793924122781
   }
 ]

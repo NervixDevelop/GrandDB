@@ -1496,10 +1496,22 @@
     "title": "Худи «Palm Shadow»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw48tpp4sco.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793925419664
+  },
+  {
+    "id": "umw48vm9drqk",
+    "title": "Жакет «Honey Gold»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw48vm9drqk.webp",
+    "rarity": "Необычный",
+    "gender": "Женский",
+    "added": "2026-11-06",
+    "iv": 1793925797547
   }
 ]

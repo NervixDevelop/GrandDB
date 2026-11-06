@@ -1544,10 +1544,22 @@
     "title": "Футболка «Forest Green»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4dr0zf8gq.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793933709038
+  },
+  {
+    "id": "umw4dta1lw0d",
+    "title": "Худи «Pastel Mix»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4dta1lw0d.webp",
+    "rarity": "Обычный",
+    "gender": "Женский",
+    "added": "2026-11-06",
+    "iv": 1793933805201
   }
 ]

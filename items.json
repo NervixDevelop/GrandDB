@@ -1592,10 +1592,22 @@
     "title": "Рубашка «Ocean Breeze»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4gdqka9a4.webp",
-    "rarity": "Необычный",
     "gender": "Мужской",
+    "rarity": "Необычный",
     "added": "2026-11-06",
     "iv": 1793938178535
+  },
+  {
+    "id": "umw4gh3yhs39",
+    "title": "Худи «Red Stripe Stealth»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4gh3yhs39.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-06",
+    "iv": 1793938298414
   }
 ]

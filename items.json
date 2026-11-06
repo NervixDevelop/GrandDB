@@ -1532,10 +1532,22 @@
     "title": "Топ пляжный «Пляжная Пальма»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4dnj2e8d4.webp",
-    "rarity": "Обычный",
     "gender": "Женский",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793933604318
+  },
+  {
+    "id": "umw4dr0zf8gq",
+    "title": "Футболка «Forest Green»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4dr0zf8gq.webp",
+    "rarity": "Обычный",
+    "gender": "Мужской",
+    "added": "2026-11-06",
+    "iv": 1793933709038
   }
 ]

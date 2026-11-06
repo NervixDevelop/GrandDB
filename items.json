@@ -1472,10 +1472,22 @@
     "title": "Джемпер «Silver Heather»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw48p7d7jlu.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793925208112
+  },
+  {
+    "id": "umw48r3cgw01",
+    "title": "Худи «Racing Red»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw48r3cgw01.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-06",
-    "iv": 1793925208112
+    "iv": 1793925331372
   }
 ]

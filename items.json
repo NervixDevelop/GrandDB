@@ -1484,10 +1484,22 @@
     "title": "Худи «Racing Red»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw48r3cgw01.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793925331372
+  },
+  {
+    "id": "umw48tpp4sco",
+    "title": "Худи «Palm Shadow»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw48tpp4sco.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-06",
-    "iv": 1793925331372
+    "iv": 1793925419664
   }
 ]

@@ -1604,10 +1604,22 @@
     "title": "Худи «Red Stripe Stealth»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4gh3yhs39.webp",
+    "gender": "Мужской",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793938298414
+  },
+  {
+    "id": "umw4z1omguux",
+    "title": "Худи «Neon Strike»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4z1omguux.webp",
     "rarity": "Обычный",
     "gender": "Мужской",
     "added": "2026-11-06",
-    "iv": 1793938298414
+    "iv": 1793969478809
   }
 ]

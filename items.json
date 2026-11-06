@@ -1568,10 +1568,22 @@
     "title": "Топ пляжный «Тропический цветок»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4dvd6duxj.webp",
+    "gender": "Женский",
+    "rarity": "Обычный",
+    "added": "2026-11-06",
+    "iv": 1793933915316
+  },
+  {
+    "id": "umw4dxpdu1gi",
+    "title": "Жакет «Old School»",
+    "cat": "cloth",
+    "sub": "Верх",
+    "img": "images/umw4dxpdu1gi.webp",
     "rarity": "Обычный",
     "gender": "Женский",
     "added": "2026-11-06",
-    "iv": 1793933915316
+    "iv": 1793938021335
   }
 ]

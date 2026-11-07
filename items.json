@@ -1693,11 +1693,24 @@
     "title": "BMW M3 CS Touring",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw612tr0xco.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 18000000,
     "added": "2026-11-07",
     "iv": 1794033315550
+  },
+  {
+    "id": "umw6148tp89c",
+    "title": "BMW M3 E46 GTR",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw6148tp89c.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 3000000,
+    "added": "2026-11-07",
+    "iv": 1794033409419
   }
 ]

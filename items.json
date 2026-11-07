@@ -1667,11 +1667,24 @@
     "title": "BMW M1",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw60z8w918c.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-07",
     "iv": 1794033167564
+  },
+  {
+    "id": "umw61120uxbf",
+    "title": "BMW M3 Competition G80",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61120uxbf.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-07",
+    "iv": 1794033241518
   }
 ]

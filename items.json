@@ -1771,11 +1771,24 @@
     "title": "BMW M5 F90 RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61evo8vq4.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 13000000,
     "added": "2026-11-07",
     "iv": 1794033865197
+  },
+  {
+    "id": "umw61g2cmdk2",
+    "title": "BMW M5 G90",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61g2cmdk2.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-07",
+    "iv": 1794033994940
   }
 ]

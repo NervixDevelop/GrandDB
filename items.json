@@ -1732,11 +1732,24 @@
     "title": "BMW M4 F82 Sharkface",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw6197se5x7.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 13000000,
     "added": "2026-11-07",
     "iv": 1794033656868
+  },
+  {
+    "id": "umw61bjsxood",
+    "title": "BMW M5 F90 ASCO",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61bjsxood.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-07",
+    "iv": 1794033718910
   }
 ]

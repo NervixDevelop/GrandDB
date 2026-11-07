@@ -1616,10 +1616,23 @@
     "title": "Худи «Neon Strike»",
     "cat": "cloth",
     "sub": "Верх",
+    "type": "Верх",
     "img": "images/umw4z1omguux.webp",
-    "rarity": "Обычный",
     "gender": "Мужской",
+    "rarity": "Обычный",
     "added": "2026-11-06",
     "iv": 1793969478809
+  },
+  {
+    "id": "umw5xw5xs18z",
+    "title": "BMW CSL Hommage RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw5xw5xs18z.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 7,
+    "added": "2026-11-07",
+    "iv": 1794028060065
   }
 ]

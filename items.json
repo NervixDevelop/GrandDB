@@ -1641,11 +1641,24 @@
     "title": "BMW I8 RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw60vwcldub.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 11000000,
     "added": "2026-11-07",
     "iv": 1794033008616
+  },
+  {
+    "id": "umw60xrgizfw",
+    "title": "BMW I8 RGB Gold Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw60xrgizfw.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-07",
+    "iv": 1794033076062
   }
 ]

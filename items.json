@@ -1680,11 +1680,24 @@
     "title": "BMW M3 Competition G80",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61120uxbf.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-07",
     "iv": 1794033241518
+  },
+  {
+    "id": "umw612tr0xco",
+    "title": "BMW M3 CS Touring",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw612tr0xco.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 18000000,
+    "added": "2026-11-07",
+    "iv": 1794033315550
   }
 ]

@@ -1745,11 +1745,24 @@
     "title": "BMW M5 F90 ASCO",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61bjsxood.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-07",
     "iv": 1794033718910
+  },
+  {
+    "id": "umw61cv9e1yo",
+    "title": "BMW M5 F90 Competition ADMIN",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61cv9e1yo.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-07",
+    "iv": 1794033801722
   }
 ]

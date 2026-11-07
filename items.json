@@ -1758,11 +1758,24 @@
     "title": "BMW M5 F90 Competition ADMIN",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61cv9e1yo.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-07",
     "iv": 1794033801722
+  },
+  {
+    "id": "umw61evo8vq4",
+    "title": "BMW M5 F90 RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61evo8vq4.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 13000000,
+    "added": "2026-11-07",
+    "iv": 1794033865197
   }
 ]

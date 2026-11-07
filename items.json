@@ -1797,11 +1797,24 @@
     "title": "BMW M5 G90 RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61iuvoexm.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-07",
     "iv": 1794034104244
+  },
+  {
+    "id": "umw61l4bqyua",
+    "title": "BMW M5 Touring 2025",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw61l4bqyua.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-07",
+    "iv": 1794034180433
   }
 ]

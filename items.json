@@ -1624,28 +1624,15 @@
     "iv": 1793969478809
   },
   {
-    "id": "umw5xw5xs18z",
+    "id": "umw60sd7gm5k",
     "title": "BMW CSL Hommage RGB",
     "cat": "transport",
     "sub": "Автомобиль",
-    "img": "images/umw5xw5xs18z.webp",
+    "img": "images/umw60sd7gm5k.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 7000000,
     "added": "2026-11-07",
-    "iv": 1794028638344
-  },
-  {
-    "id": "umw5xzjpfmrh",
-    "title": "BMW I8 RGB",
-    "cat": "transport",
-    "sub": "Автомобиль",
-    "type": "Автомобиль",
-    "img": "images/umw5xzjpfmrh.webp",
-    "brand": "BMW",
-    "speed": 0,
-    "price": 11000000,
-    "added": "2026-11-07",
-    "iv": 1794028126001
+    "iv": 1794032924974
   }
 ]

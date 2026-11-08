@@ -2590,11 +2590,24 @@
     "title": "Lamborghini Urus Evo RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zdv2xw2h.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-08",
     "iv": 1794151446125
+  },
+  {
+    "id": "umw7zg708sxg",
+    "title": "Lamborghini Urus Venuum Furioso",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zg708sxg.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 70000000,
+    "added": "2026-11-08",
+    "iv": 1794151541473
   }
 ]

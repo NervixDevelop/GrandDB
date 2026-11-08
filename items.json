@@ -2330,11 +2330,24 @@
     "title": "Ferrari F8 Mansory",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7y6qk49tg.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-08",
     "iv": 1794149473380
+  },
+  {
+    "id": "umw7ya05zi0w",
+    "title": "Festival Bus",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ya05zi0w.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-08",
+    "iv": 1794149550849
   }
 ]

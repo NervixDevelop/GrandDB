@@ -2460,11 +2460,24 @@
     "title": "Hudson Hornet Halloween",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yrxoarvr.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 3000000,
     "added": "2026-11-08",
     "iv": 1794150397025
+  },
+  {
+    "id": "umw7ytxniygn",
+    "title": "Infiniti Project Black S SE",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ytxniygn.webp",
+    "brand": "Infiniti",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794150473247
   }
 ]

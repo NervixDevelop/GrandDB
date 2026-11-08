@@ -2018,11 +2018,24 @@
     "title": "Bugatti Veyron 16.4 Gold Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7v20l5144.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 200000000,
     "added": "2026-11-08",
     "iv": 1794144149934
+  },
+  {
+    "id": "umw7v3tj73uk",
+    "title": "Burger Car",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7v3tj73uk.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 1000000,
+    "added": "2026-11-08",
+    "iv": 1794144225644
   }
 ]

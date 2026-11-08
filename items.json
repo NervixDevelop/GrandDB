@@ -1940,11 +1940,24 @@
     "title": "Костяной Рейнджер",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7untx4jtn.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-08",
     "iv": 1794143486280
+  },
+  {
+    "id": "umw7uplsqiwk",
+    "title": "BType Halloween",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7uplsqiwk.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-08",
+    "iv": 1794143561312
   }
 ]

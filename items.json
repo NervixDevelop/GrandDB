@@ -2486,11 +2486,24 @@
     "title": "Jeep Gladiator",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yvjc2zis.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-08",
     "iv": 1794150549994
+  },
+  {
+    "id": "umw7ywzo5oft",
+    "title": "Король Пустошей",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ywzo5oft.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 2500000,
+    "added": "2026-11-08",
+    "iv": 1794150635143
   }
 ]

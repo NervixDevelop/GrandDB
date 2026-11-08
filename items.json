@@ -2369,11 +2369,24 @@
     "title": "Ford Bronco Raptor",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yde97gxu.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 4500000,
     "added": "2026-11-08",
     "iv": 1794149712655
+  },
+  {
+    "id": "umw7yezmirwy",
+    "title": "Ford Mustang 1966 VK Music",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7yezmirwy.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794149809230
   }
 ]

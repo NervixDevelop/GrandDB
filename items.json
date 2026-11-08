@@ -1914,11 +1914,24 @@
     "title": "BMW Z4 GT3",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7uhwyvgqb.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-08",
     "iv": 1794143201352
+  },
+  {
+    "id": "umw7ujgrbinv",
+    "title": "BMW Z4 Widebody",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ujgrbinv.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794143405546
   }
 ]

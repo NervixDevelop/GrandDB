@@ -2291,11 +2291,24 @@
     "title": "Dodge Viper GTS-R",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7w8gqe34z.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-08",
     "iv": 1794146169213
+  },
+  {
+    "id": "umw7y0zc4nxt",
+    "title": "Ferrari 458 Italia Police",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7y0zc4nxt.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 35000000,
+    "added": "2026-11-08",
+    "iv": 1794149225191
   }
 ]

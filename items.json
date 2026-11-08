@@ -2304,11 +2304,24 @@
     "title": "Ferrari 458 Italia Police",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7y0zc4nxt.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 35000000,
     "added": "2026-11-08",
     "iv": 1794149225191
+  },
+  {
+    "id": "umw7y541jrg4",
+    "title": "Ferrari F12 Berlinetta",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7y541jrg4.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-08",
+    "iv": 1794149323173
   }
 ]

@@ -2096,11 +2096,24 @@
     "title": "Chevrolet Corvette C3 Gold Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vdcnbx3e.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 13000000,
     "added": "2026-11-08",
     "iv": 1794144675483
+  },
+  {
+    "id": "umw7vf8qwo7v",
+    "title": "Chevrolet Corvette EV 1956",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vf8qwo7v.webp",
+    "brand": "Chevrolet",
+    "speed": 0,
+    "price": 45000000,
+    "added": "2026-11-08",
+    "iv": 1794144780198
   }
 ]

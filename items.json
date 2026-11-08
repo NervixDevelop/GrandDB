@@ -1953,11 +1953,24 @@
     "title": "BType Halloween",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7uplsqiwk.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-08",
     "iv": 1794143561312
+  },
+  {
+    "id": "umw7urddxpye",
+    "title": "Bugatti Bolide",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7urddxpye.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 110000000,
+    "added": "2026-11-08",
+    "iv": 1794143653240
   }
 ]

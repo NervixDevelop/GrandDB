@@ -2317,11 +2317,24 @@
     "title": "Ferrari F12 Berlinetta",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7y541jrg4.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-08",
     "iv": 1794149323173
+  },
+  {
+    "id": "umw7y6qk49tg",
+    "title": "Ferrari F8 Mansory",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7y6qk49tg.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-08",
+    "iv": 1794149473380
   }
 ]

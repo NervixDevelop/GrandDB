@@ -2109,11 +2109,24 @@
     "title": "Chevrolet Corvette EV 1956",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vf8qwo7v.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 45000000,
     "added": "2026-11-08",
     "iv": 1794144780198
+  },
+  {
+    "id": "umw7vhezkdsk",
+    "title": "Chevrolet Z28 - Чупа Молния",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vhezkdsk.webp",
+    "brand": "Chevrolet",
+    "speed": 0,
+    "price": 6000000,
+    "added": "2026-11-08",
+    "iv": 1794144857247
   }
 ]

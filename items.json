@@ -2707,11 +2707,24 @@
     "title": "Magnaris Okira",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zyb2nll2.webp",
     "brand": "LADA",
     "speed": 0,
     "price": 65000,
     "added": "2026-11-08",
     "iv": 1794152377649
+  },
+  {
+    "id": "umw80089lpqi",
+    "title": "Magnaris XMAS",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw80089lpqi.webp",
+    "brand": "LADA",
+    "speed": 0,
+    "price": 80000,
+    "added": "2026-11-08",
+    "iv": 1794152469822
   }
 ]

@@ -2174,11 +2174,24 @@
     "title": "Dodge B-Series 1953 Halloween",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7voinb57k.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-08",
     "iv": 1794145202951
+  },
+  {
+    "id": "umw7vqloyx6i",
+    "title": "Dodge Challenger SRT HW",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vqloyx6i.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 4000000,
+    "added": "2026-11-08",
+    "iv": 1794145363383
   }
 ]

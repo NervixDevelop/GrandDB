@@ -2408,11 +2408,24 @@
     "title": "Ford Mustang VI",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yiwgzod7.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 9000000,
     "added": "2026-11-08",
     "iv": 1794149963993
+  },
+  {
+    "id": "umw7ykihv6hr",
+    "title": "Ford Mustang VI Police",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ykihv6hr.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-08",
+    "iv": 1794150058597
   }
 ]

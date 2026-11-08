@@ -1823,11 +1823,24 @@
     "title": "BMW M8 Abflug",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw61mrpjqyx.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-07",
     "iv": 1794034375348
+  },
+  {
+    "id": "umw7u2ouh0zh",
+    "title": "BMW M8 S8N",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7u2ouh0zh.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-08",
+    "iv": 1794142531666
   }
 ]

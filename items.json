@@ -1979,11 +1979,24 @@
     "title": "Bugatti Chiron Concept Design",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ut4ai0xl.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 100000000,
     "added": "2026-11-08",
     "iv": 1794143729131
+  },
+  {
+    "id": "umw7uuue4ufy",
+    "title": "Bugatti Chiron Omega WB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7uuue4ufy.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 150000000,
+    "added": "2026-11-08",
+    "iv": 1794143976103
   }
 ]

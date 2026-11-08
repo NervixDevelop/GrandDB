@@ -1927,11 +1927,24 @@
     "title": "BMW Z4 Widebody",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ujgrbinv.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794143405546
+  },
+  {
+    "id": "umw7untx4jtn",
+    "title": "Костяной Рейнджер",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7untx4jtn.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-08",
+    "iv": 1794143486280
   }
 ]

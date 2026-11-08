@@ -2005,11 +2005,24 @@
     "title": "Bugatti Divo Police",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7v01y4q7k.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 150000000,
     "added": "2026-11-08",
     "iv": 1794144062530
+  },
+  {
+    "id": "umw7v20l5144",
+    "title": "Bugatti Veyron 16.4 Gold Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7v20l5144.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 200000000,
+    "added": "2026-11-08",
+    "iv": 1794144149934
   }
 ]

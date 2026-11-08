@@ -2148,11 +2148,24 @@
     "title": "Daeko Atiz Monster Truck",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vkud3h0p.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-08",
     "iv": 1794145009713
+  },
+  {
+    "id": "umw7vmwlsi2t",
+    "title": "Despicable Me 3 Villan",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vmwlsi2t.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 3000000,
+    "added": "2026-11-08",
+    "iv": 1794145116863
   }
 ]

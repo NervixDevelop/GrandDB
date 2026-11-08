@@ -2200,11 +2200,24 @@
     "title": "Dodge Charger 1970",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vtt01qlb.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-08",
     "iv": 1794145448353
+  },
+  {
+    "id": "umw7vvpungm1",
+    "title": "Dodge Charger 1971 Monster Truck",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vvpungm1.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 7000000,
+    "added": "2026-11-08",
+    "iv": 1794145541470
   }
 ]

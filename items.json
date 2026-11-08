@@ -2668,11 +2668,24 @@
     "title": "Magnaris 2106 BATEK EDITION",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zs8dxonn.webp",
     "brand": "LADA",
     "speed": 0,
     "price": 1000000,
     "added": "2026-11-08",
     "iv": 1794152123333
+  },
+  {
+    "id": "umw7zunwjbn8",
+    "title": "Magnaris-2715",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zunwjbn8.webp",
+    "brand": "LADA",
+    "speed": 0,
+    "price": 200000,
+    "added": "2026-11-08",
+    "iv": 1794152205071
   }
 ]

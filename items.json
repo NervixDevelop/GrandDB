@@ -2616,11 +2616,24 @@
     "title": "Land Rover Defender Mansory",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zi8t02ji.webp",
     "brand": "Land Rover",
     "speed": 0,
     "price": 7000000,
     "added": "2026-11-08",
     "iv": 1794151632654
+  },
+  {
+    "id": "umw7zkba310x",
+    "title": "Lexus LFA Gold Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zkba310x.webp",
+    "brand": "Lexus",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-08",
+    "iv": 1794151720280
   }
 ]

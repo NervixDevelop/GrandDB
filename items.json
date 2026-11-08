@@ -2122,11 +2122,24 @@
     "title": "Chevrolet Z28 - Чупа Молния",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vhezkdsk.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 6000000,
     "added": "2026-11-08",
     "iv": 1794144857247
+  },
+  {
+    "id": "umw7vj8ju31s",
+    "title": "Гроб",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vj8ju31s.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794144943752
   }
 ]

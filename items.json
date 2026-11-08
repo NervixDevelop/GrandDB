@@ -2395,11 +2395,24 @@
     "title": "Ford Mustang GT 2005 Police",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yh4y57df.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 2000000,
     "added": "2026-11-08",
     "iv": 1794149888798
+  },
+  {
+    "id": "umw7yiwgzod7",
+    "title": "Ford Mustang VI",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7yiwgzod7.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 9000000,
+    "added": "2026-11-08",
+    "iv": 1794149963993
   }
 ]

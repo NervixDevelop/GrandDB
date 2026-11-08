@@ -2681,11 +2681,24 @@
     "title": "Magnaris-2715",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zunwjbn8.webp",
     "brand": "LADA",
     "speed": 0,
     "price": 200000,
     "added": "2026-11-08",
     "iv": 1794152205071
+  },
+  {
+    "id": "umw7zwfhq4xw",
+    "title": "Magnaris-469",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zwfhq4xw.webp",
+    "brand": "LADA",
+    "speed": 0,
+    "price": 1400000,
+    "added": "2026-11-08",
+    "iv": 1794152290921
   }
 ]

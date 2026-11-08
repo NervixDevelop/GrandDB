@@ -2356,11 +2356,24 @@
     "title": "Flip Car",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ybmrlexj.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 1000000,
     "added": "2026-11-08",
     "iv": 1794149629036
+  },
+  {
+    "id": "umw7yde97gxu",
+    "title": "Ford Bronco Raptor",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7yde97gxu.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 4500000,
+    "added": "2026-11-08",
+    "iv": 1794149712655
   }
 ]

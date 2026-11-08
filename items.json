@@ -2265,11 +2265,24 @@
     "title": "Dodge RAM Monster Track",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7w401mkry.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 13000000,
     "added": "2026-11-08",
     "iv": 1794145927396
+  },
+  {
+    "id": "umw7w5xr6rrj",
+    "title": "Dodge Viper ACR",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7w5xr6rrj.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-08",
+    "iv": 1794146046776
   }
 ]

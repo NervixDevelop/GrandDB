@@ -2226,11 +2226,24 @@
     "title": "Dodge Charger APOCALYPSE",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vxmuzoqx.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-08",
     "iv": 1794145654394
+  },
+  {
+    "id": "umw7w01s3r81",
+    "title": "Dodge Charger Venom",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7w01s3r81.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-08",
+    "iv": 1794145743447
   }
 ]

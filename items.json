@@ -2564,6 +2564,7 @@
     "title": "Lamborghini Urus",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7z77s4qto.webp",
     "brand": "Lamborghini",
     "speed": 308,
@@ -2583,5 +2584,17 @@
     "price": 30000000,
     "added": "2026-11-08",
     "iv": 1794151288302
+  },
+  {
+    "id": "umw7zdv2xw2h",
+    "title": "Lamborghini Urus Evo RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zdv2xw2h.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-08",
+    "iv": 1794151446125
   }
 ]

@@ -2135,11 +2135,24 @@
     "title": "Гроб",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vj8ju31s.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794144943752
+  },
+  {
+    "id": "umw7vkud3h0p",
+    "title": "Daeko Atiz Monster Truck",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vkud3h0p.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-08",
+    "iv": 1794145009713
   }
 ]

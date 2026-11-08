@@ -2031,11 +2031,24 @@
     "title": "Burger Car",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7v3tj73uk.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 1000000,
     "added": "2026-11-08",
     "iv": 1794144225644
+  },
+  {
+    "id": "umw7v5f23w04",
+    "title": "Cadillac Бунтарь",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7v5f23w04.webp",
+    "brand": "Cadillac",
+    "speed": 0,
+    "price": 500000,
+    "added": "2026-11-08",
+    "iv": 1794144313440
   }
 ]

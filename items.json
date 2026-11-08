@@ -2252,11 +2252,24 @@
     "title": "Dodge Pickup XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7w24op8l6.webp",
     "brand": "Dodge",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-08",
     "iv": 1794145837541
+  },
+  {
+    "id": "umw7w401mkry",
+    "title": "Dodge RAM Monster Track",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7w401mkry.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 13000000,
+    "added": "2026-11-08",
+    "iv": 1794145927396
   }
 ]

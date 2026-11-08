@@ -1966,11 +1966,24 @@
     "title": "Bugatti Bolide",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7urddxpye.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 110000000,
     "added": "2026-11-08",
     "iv": 1794143653240
+  },
+  {
+    "id": "umw7ut4ai0xl",
+    "title": "Bugatti Chiron Concept Design",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ut4ai0xl.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 100000000,
+    "added": "2026-11-08",
+    "iv": 1794143729131
   }
 ]

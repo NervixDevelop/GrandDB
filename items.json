@@ -1875,11 +1875,24 @@
     "title": "BMW X7 2NCS Widebody",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ub5avo7j.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-08",
     "iv": 1794142925017
+  },
+  {
+    "id": "umw7udjm52su",
+    "title": "BMW XM",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7udjm52su.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-08",
+    "iv": 1794143037621
   }
 ]

@@ -2642,11 +2642,24 @@
     "title": "Little Veyron",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zm2gcwou.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 3000000,
     "added": "2026-11-08",
     "iv": 1794151841408
+  },
+  {
+    "id": "umw7zoy2ad39",
+    "title": "Magnaris 2101 Sport",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zoy2ad39.webp",
+    "brand": "LADA",
+    "speed": 0,
+    "price": 2000000,
+    "added": "2026-11-08",
+    "iv": 1794152007565
   }
 ]

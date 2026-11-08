@@ -2161,11 +2161,24 @@
     "title": "Despicable Me 3 Villan",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7vmwlsi2t.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 3000000,
     "added": "2026-11-08",
     "iv": 1794145116863
+  },
+  {
+    "id": "umw7voinb57k",
+    "title": "Dodge B-Series 1953 Halloween",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7voinb57k.webp",
+    "brand": "Dodge",
+    "speed": 0,
+    "price": 3500000,
+    "added": "2026-11-08",
+    "iv": 1794145202951
   }
 ]

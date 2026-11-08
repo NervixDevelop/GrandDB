@@ -1849,11 +1849,24 @@
     "title": "BMW X6M Liberty Walk",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7u54r4niu.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 13000000,
     "added": "2026-11-08",
     "iv": 1794142641817
+  },
+  {
+    "id": "umw7u7iuz050",
+    "title": "BMW X7 2023 Zyphyr Design",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7u7iuz050.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794142810210
   }
 ]

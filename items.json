@@ -2525,11 +2525,24 @@
     "title": "Lamborghini Diablo SV",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7z0wvhhwg.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-08",
     "iv": 1794150854351
+  },
+  {
+    "id": "umw7z3jer51m",
+    "title": "Lamborghini Lanzador Hycade",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7z3jer51m.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-08",
+    "iv": 1794150939909
   }
 ]

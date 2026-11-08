@@ -2551,11 +2551,24 @@
     "title": "Lamborghini Murcielaga",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7z5g69cjk.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-08",
     "iv": 1794151019268
+  },
+  {
+    "id": "umw7z77s4qto",
+    "title": "Lamborghini Urus",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7z77s4qto.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-08",
+    "iv": 1794151136620
   }
 ]

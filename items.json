@@ -2564,11 +2564,24 @@
     "title": "Lamborghini Urus",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7z77s4qto.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-08",
     "iv": 1794151136620
+  },
+  {
+    "id": "umw7z9izdg7k",
+    "title": "Lamborghini Urus Abflug",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7z9izdg7k.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-08",
+    "iv": 1794151288302
   }
 ]

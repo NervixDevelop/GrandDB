@@ -1901,11 +1901,24 @@
     "title": "BMW XM XMAS RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ufza33xi.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794143116380
+  },
+  {
+    "id": "umw7uhwyvgqb",
+    "title": "BMW Z4 GT3",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7uhwyvgqb.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-08",
+    "iv": 1794143201352
   }
 ]

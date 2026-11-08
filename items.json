@@ -2343,11 +2343,24 @@
     "title": "Festival Bus",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ya05zi0w.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-08",
     "iv": 1794149550849
+  },
+  {
+    "id": "umw7ybmrlexj",
+    "title": "Flip Car",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ybmrlexj.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 1000000,
+    "added": "2026-11-08",
+    "iv": 1794149629036
   }
 ]

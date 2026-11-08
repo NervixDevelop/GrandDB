@@ -2382,11 +2382,24 @@
     "title": "Ford Mustang 1966 VK Music",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yezmirwy.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794149809230
+  },
+  {
+    "id": "umw7yh4y57df",
+    "title": "Ford Mustang GT 2005 Police",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7yh4y57df.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 2000000,
+    "added": "2026-11-08",
+    "iv": 1794149888798
   }
 ]

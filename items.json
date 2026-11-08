@@ -2421,11 +2421,24 @@
     "title": "Ford Mustang VI Police",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ykihv6hr.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-08",
     "iv": 1794150058597
+  },
+  {
+    "id": "umw7ymmjf4z0",
+    "title": "FSB Armored",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ymmjf4z0.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 7000000,
+    "added": "2026-11-08",
+    "iv": 1794150142813
   }
 ]

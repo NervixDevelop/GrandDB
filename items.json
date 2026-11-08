@@ -1836,11 +1836,24 @@
     "title": "BMW M8 S8N",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7u2ouh0zh.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-08",
     "iv": 1794142531666
+  },
+  {
+    "id": "umw7u54r4niu",
+    "title": "BMW X6M Liberty Walk",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7u54r4niu.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 13000000,
+    "added": "2026-11-08",
+    "iv": 1794142641817
   }
 ]

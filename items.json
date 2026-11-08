@@ -2057,11 +2057,24 @@
     "title": "Cat Car",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7v7bnwlp1.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-08",
     "iv": 1794144387507
+  },
+  {
+    "id": "umw7v90y9ibt",
+    "title": "Cardboard Machine",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7v90y9ibt.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 4000000,
+    "added": "2026-11-08",
+    "iv": 1794144497298
   }
 ]

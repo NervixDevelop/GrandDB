@@ -1862,11 +1862,24 @@
     "title": "BMW X7 2023 Zyphyr Design",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7u7iuz050.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794142810210
+  },
+  {
+    "id": "umw7ub5avo7j",
+    "title": "BMW X7 2NCS Widebody",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ub5avo7j.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-08",
+    "iv": 1794142925017
   }
 ]

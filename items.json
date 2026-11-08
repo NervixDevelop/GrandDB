@@ -2473,11 +2473,24 @@
     "title": "Infiniti Project Black S SE",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7ytxniygn.webp",
     "brand": "Infiniti",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-08",
     "iv": 1794150473247
+  },
+  {
+    "id": "umw7yvjc2zis",
+    "title": "Jeep Gladiator",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7yvjc2zis.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-08",
+    "iv": 1794150549994
   }
 ]

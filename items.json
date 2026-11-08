@@ -2629,11 +2629,24 @@
     "title": "Lexus LFA Gold Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zkba310x.webp",
     "brand": "Lexus",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-08",
     "iv": 1794151720280
+  },
+  {
+    "id": "umw7zm2gcwou",
+    "title": "Little Veyron",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zm2gcwou.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 3000000,
+    "added": "2026-11-08",
+    "iv": 1794151841408
   }
 ]

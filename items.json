@@ -2694,11 +2694,24 @@
     "title": "Magnaris-469",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7zwfhq4xw.webp",
     "brand": "LADA",
     "speed": 0,
     "price": 1400000,
     "added": "2026-11-08",
     "iv": 1794152290921
+  },
+  {
+    "id": "umw7zyb2nll2",
+    "title": "Magnaris Okira",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7zyb2nll2.webp",
+    "brand": "LADA",
+    "speed": 0,
+    "price": 65000,
+    "added": "2026-11-08",
+    "iv": 1794152377649
   }
 ]

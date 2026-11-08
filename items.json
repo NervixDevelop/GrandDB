@@ -1888,11 +1888,24 @@
     "title": "BMW XM",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7udjm52su.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-08",
     "iv": 1794143037621
+  },
+  {
+    "id": "umw7ufza33xi",
+    "title": "BMW XM XMAS RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7ufza33xi.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-08",
+    "iv": 1794143116380
   }
 ]

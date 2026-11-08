@@ -2512,11 +2512,24 @@
     "title": "Lamborghini Aventador J",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7yysrwkky.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 18000000,
     "added": "2026-11-08",
     "iv": 1794150734703
+  },
+  {
+    "id": "umw7z0wvhhwg",
+    "title": "Lamborghini Diablo SV",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7z0wvhhwg.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-08",
+    "iv": 1794150854351
   }
 ]

@@ -2070,11 +2070,24 @@
     "title": "Cardboard Machine",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw7v90y9ibt.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 4000000,
     "added": "2026-11-08",
     "iv": 1794144497298
+  },
+  {
+    "id": "umw7vbcp1fzi",
+    "title": "Chevrolet Camaro SS 350 Convertible",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw7vbcp1fzi.webp",
+    "brand": "Chevrolet",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-08",
+    "iv": 1794144587747
   }
 ]

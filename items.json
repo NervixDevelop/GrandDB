@@ -3071,11 +3071,24 @@
     "title": "Mustang Dark Horse",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pymyznqy.webp",
     "brand": "Mustang",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-09",
     "iv": 1794196059887
+  },
+  {
+    "id": "umw8q0t6bisy",
+    "title": "Nissan Skyline R33 Monster E",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8q0t6bisy.webp",
+    "brand": "Nissan",
+    "speed": 0,
+    "price": 4000000,
+    "added": "2026-11-09",
+    "iv": 1794196144062
   }
 ]

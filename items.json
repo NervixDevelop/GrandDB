@@ -3422,11 +3422,24 @@
     "title": "Waymo",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97xdm7f3e.webp",
     "brand": "Waymo",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-09",
     "iv": 1794226219354
+  },
+  {
+    "id": "umw97z3wr8yz",
+    "title": "Zeekr 9X Police",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97z3wr8yz.webp",
+    "brand": "Zeekr",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794226316730
   }
 ]

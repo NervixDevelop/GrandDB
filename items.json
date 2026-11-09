@@ -3435,11 +3435,24 @@
     "title": "Zeekr 9X Police",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97z3wr8yz.webp",
     "brand": "Zeekr",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794226316730
+  },
+  {
+    "id": "umw981byy9yh",
+    "title": "Rolls-Royce Phantom Limo Monster",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw981byy9yh.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-09",
+    "iv": 1794226379781
   }
 ]

@@ -3136,11 +3136,24 @@
     "title": "Pumpkin Car",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8q8kr3ujy.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 2500000,
     "added": "2026-11-09",
     "iv": 1794196499498
+  },
+  {
+    "id": "umw8qar2mhbb",
+    "title": "Quadra Turbo-R V-Tech",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qar2mhbb.webp",
+    "brand": "Quadra",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-09",
+    "iv": 1794196615389
   }
 ]

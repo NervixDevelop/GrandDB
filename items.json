@@ -3032,11 +3032,24 @@
     "title": "Mercury Montego",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pt4w3zv8.webp",
     "brand": "Mercury",
     "speed": 0,
     "price": 1000000,
     "added": "2026-11-09",
     "iv": 1794195768736
+  },
+  {
+    "id": "umw8puxbuj1d",
+    "title": "Mitsubishi Eclipse Spyder",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8puxbuj1d.webp",
+    "brand": "Mitsubish",
+    "speed": 0,
+    "price": 4000000,
+    "added": "2026-11-09",
+    "iv": 1794195843970
   }
 ]

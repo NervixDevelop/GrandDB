@@ -3123,11 +3123,24 @@
     "title": "Porsche Boxster GTS RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8q6n5vity.webp",
     "brand": "Porsche",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-09",
     "iv": 1794196427952
+  },
+  {
+    "id": "umw8q8kr3ujy",
+    "title": "Pumpkin Car",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8q8kr3ujy.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 2500000,
+    "added": "2026-11-09",
+    "iv": 1794196499498
   }
 ]

@@ -2811,11 +2811,24 @@
     "title": "McLaren Sabre",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8l3jh5ee9.webp",
     "brand": "McLaren",
     "speed": 0,
     "price": 45000000,
     "added": "2026-11-09",
     "iv": 1794187855202
+  },
+  {
+    "id": "umw8l5ex5qky",
+    "title": "McQueen",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8l5ex5qky.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-09",
+    "iv": 1794187947591
   }
 ]

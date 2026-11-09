@@ -3266,11 +3266,24 @@
     "title": "Скользящий Ужас",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qqwkhzvp.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 2500000,
     "added": "2026-11-09",
     "iv": 1794197354873
+  },
+  {
+    "id": "umw96rghiba4",
+    "title": "Диван-мобиль",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw96rghiba4.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 12000000,
+    "added": "2026-11-09",
+    "iv": 1794224258896
   }
 ]

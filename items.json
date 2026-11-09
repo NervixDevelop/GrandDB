@@ -3084,11 +3084,24 @@
     "title": "Nissan Skyline R33 Monster E",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8q0t6bisy.webp",
     "brand": "Nissan",
     "speed": 0,
     "price": 4000000,
     "added": "2026-11-09",
     "iv": 1794196144062
+  },
+  {
+    "id": "umw8q2jq8bxg",
+    "title": "Nissan Titan",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8q2jq8bxg.webp",
+    "brand": "Nissan",
+    "speed": 0,
+    "price": 7000000,
+    "added": "2026-11-09",
+    "iv": 1794196278861
   }
 ]

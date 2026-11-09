@@ -3292,11 +3292,24 @@
     "title": "Super Kart",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw96te0rtzr.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-09",
     "iv": 1794224360495
+  },
+  {
+    "id": "umw96uzhowfb",
+    "title": "Survivors Car",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw96uzhowfb.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-09",
+    "iv": 1794224447973
   }
 ]

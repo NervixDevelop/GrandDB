@@ -2798,11 +2798,24 @@
     "title": "McLaren 600LT EVO",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8l1ij9ahn.webp",
     "brand": "McLaren",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-09",
     "iv": 1794187779256
+  },
+  {
+    "id": "umw8l3jh5ee9",
+    "title": "McLaren Sabre",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8l3jh5ee9.webp",
+    "brand": "McLaren",
+    "speed": 0,
+    "price": 45000000,
+    "added": "2026-11-09",
+    "iv": 1794187855202
   }
 ]

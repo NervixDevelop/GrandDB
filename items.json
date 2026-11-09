@@ -2824,11 +2824,24 @@
     "title": "McQueen",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8l5ex5qky.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-09",
     "iv": 1794187947591
+  },
+  {
+    "id": "umw8l6scxyir",
+    "title": "Mercedes-Benz G-Class Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8l6scxyir.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794188239547
   }
 ]

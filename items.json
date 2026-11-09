@@ -2902,11 +2902,24 @@
     "title": "Mercedes-Benz G580",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8p3khxtn7.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-09",
     "iv": 1794194638269
+  },
+  {
+    "id": "umw8p5y4adof",
+    "title": "Mercedes-Benz G63 Inferno",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8p5y4adof.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-09",
+    "iv": 1794194730778
   }
 ]

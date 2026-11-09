@@ -3331,11 +3331,24 @@
     "title": "Toyota Cresta Drift",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97etg38mm.webp",
     "brand": "Toyota",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-09",
     "iv": 1794225350816
+  },
+  {
+    "id": "umw97gh1p0ug",
+    "title": "Toyota Vellfire V6 Burnok Speed",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97gh1p0ug.webp",
+    "brand": "Toyota",
+    "speed": 0,
+    "price": 5500000,
+    "added": "2026-11-09",
+    "iv": 1794225441154
   }
 ]

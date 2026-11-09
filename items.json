@@ -3396,11 +3396,24 @@
     "title": "Volkswagen Fusca",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97tte8d0g.webp",
     "brand": "Volkswagen",
     "speed": 0,
     "price": 700000,
     "added": "2026-11-09",
     "iv": 1794226056988
+  },
+  {
+    "id": "umw97vnyiqa2",
+    "title": "Volvo Polestar 1 Widebody",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97vnyiqa2.webp",
+    "brand": "Polestar",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-09",
+    "iv": 1794226151538
   }
 ]

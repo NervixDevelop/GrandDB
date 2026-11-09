@@ -3513,11 +3513,24 @@
     "title": "Lamborghini Huracan GT3",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw989yeg1h6.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 12600000,
     "added": "2026-11-09",
     "iv": 1794226820627
+  },
+  {
+    "id": "umw98ceyenwo",
+    "title": "Ferrari Monza SP2",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw98ceyenwo.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 45000000,
+    "added": "2026-11-09",
+    "iv": 1794226908073
   }
 ]

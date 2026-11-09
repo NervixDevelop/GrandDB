@@ -3474,11 +3474,24 @@
     "title": "Mercedes-Benz W447",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw984hf8fwv.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794226546818
+  },
+  {
+    "id": "umw9865cqncu",
+    "title": "Ford Mustang Hoonigan",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9865cqncu.webp",
+    "brand": "Ford",
+    "speed": 0,
+    "price": 9000000,
+    "added": "2026-11-09",
+    "iv": 1794226634575
   }
 ]

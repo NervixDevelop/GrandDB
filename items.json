@@ -2915,11 +2915,24 @@
     "title": "Mercedes-Benz G63 Inferno",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8p5y4adof.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-09",
     "iv": 1794194730778
+  },
+  {
+    "id": "umw8p7x41qpo",
+    "title": "Mercedes-Benz GLC Coupe 250 PD",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8p7x41qpo.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-09",
+    "iv": 1794194806740
   }
 ]

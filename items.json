@@ -3370,11 +3370,24 @@
     "title": "Фургон Безумия",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97qkuh223.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 2500000,
     "added": "2026-11-09",
     "iv": 1794225881004
+  },
+  {
+    "id": "umw97rtpk9m7",
+    "title": "Volkswagen Crafter",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97rtpk9m7.webp",
+    "brand": "Volkswagen",
+    "speed": 0,
+    "price": 7000000,
+    "added": "2026-11-09",
+    "iv": 1794225967535
   }
 ]

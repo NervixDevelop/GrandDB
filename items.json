@@ -3240,11 +3240,24 @@
     "title": "Rolls-Royce Wraith Prime Custom",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qnmw4t9p.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-09",
     "iv": 1794197201182
+  },
+  {
+    "id": "umw8qpk0khyu",
+    "title": "Shifter Kart 1",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qpk0khyu.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 7000000,
+    "added": "2026-11-09",
+    "iv": 1794197277021
   }
 ]

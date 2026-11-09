@@ -3591,11 +3591,24 @@
     "title": "Ferrari Testarossa",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw99036mhxt.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-09",
     "iv": 1794233625224
+  },
+  {
+    "id": "umw9ce053z3n",
+    "title": "Lamborghini Urus Speed Hunter",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9ce053z3n.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 80000000,
+    "added": "2026-11-09",
+    "iv": 1794233706765
   }
 ]

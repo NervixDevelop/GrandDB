@@ -2889,11 +2889,24 @@
     "title": "Mercedes-Benz E63 PD Black",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8ll581564.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-09",
     "iv": 1794189077395
+  },
+  {
+    "id": "umw8p3khxtn7",
+    "title": "Mercedes-Benz G580",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8p3khxtn7.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-09",
+    "iv": 1794194638269
   }
 ]

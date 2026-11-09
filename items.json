@@ -2967,11 +2967,24 @@
     "title": "Mercedes G63 AMG 6x6 RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pjjqpug8.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-09",
     "iv": 1794195334664
+  },
+  {
+    "id": "umw8pl5u68h5",
+    "title": "Mercedes GT63 AMG Offroad Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pl5u68h5.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-09",
+    "iv": 1794195431527
   }
 ]

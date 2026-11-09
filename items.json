@@ -3188,11 +3188,24 @@
     "title": "Rolls-Royce Cullinan Keyvany",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qg74kae6.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-09",
     "iv": 1794196881913
+  },
+  {
+    "id": "umw8qisstjsk",
+    "title": "Rolls-Royce Phantom 6x6 NLOTO",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qisstjsk.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 35000000,
+    "added": "2026-11-09",
+    "iv": 1794196959911
   }
 ]

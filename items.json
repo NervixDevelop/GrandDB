@@ -3357,11 +3357,24 @@
     "title": "Van APOCALYPSE",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw97idqh0y2.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 2000000,
     "added": "2026-11-09",
     "iv": 1794225565329
+  },
+  {
+    "id": "umw97qkuh223",
+    "title": "Фургон Безумия",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97qkuh223.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 2500000,
+    "added": "2026-11-09",
+    "iv": 1794225881004
   }
 ]

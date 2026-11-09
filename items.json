@@ -2980,11 +2980,24 @@
     "title": "Mercedes GT63 AMG Offroad Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pl5u68h5.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-09",
     "iv": 1794195431527
+  },
+  {
+    "id": "umw8pn49ev34",
+    "title": "Mercedes W124",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pn49ev34.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 125000,
+    "added": "2026-11-09",
+    "iv": 1794195517256
   }
 ]

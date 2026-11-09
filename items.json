@@ -3539,11 +3539,24 @@
     "title": "Mercedes-AMG GT63s Mansory EP Body Kit",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw98dy29izt.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794226994493
+  },
+  {
+    "id": "umw98fsvamce",
+    "title": "Tesla Semi Halloween",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw98fsvamce.webp",
+    "brand": "Tesla",
+    "speed": 0,
+    "price": 8000000,
+    "added": "2026-11-09",
+    "iv": 1794227777244
   }
 ]

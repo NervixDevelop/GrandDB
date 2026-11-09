@@ -3318,11 +3318,24 @@
     "title": "Tesla Roadster",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw96wuwkas8.webp",
     "brand": "Tesla",
     "speed": 0,
     "price": 25000000,
     "added": "2026-11-09",
     "iv": 1794225281567
+  },
+  {
+    "id": "umw97etg38mm",
+    "title": "Toyota Cresta Drift",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw97etg38mm.webp",
+    "brand": "Toyota",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-09",
+    "iv": 1794225350816
   }
 ]

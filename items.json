@@ -3526,11 +3526,24 @@
     "title": "Ferrari Monza SP2",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw98ceyenwo.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 45000000,
     "added": "2026-11-09",
     "iv": 1794226908073
+  },
+  {
+    "id": "umw98dy29izt",
+    "title": "Mercedes-AMG GT63s Mansory EP Body Kit",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw98dy29izt.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794226994493
   }
 ]

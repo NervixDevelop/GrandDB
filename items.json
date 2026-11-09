@@ -3019,11 +3019,24 @@
     "title": "Mercedes W230",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pqtis310.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 225000,
     "added": "2026-11-09",
     "iv": 1794195696666
+  },
+  {
+    "id": "umw8pt4w3zv8",
+    "title": "Mercury Montego",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pt4w3zv8.webp",
+    "brand": "Mercury",
+    "speed": 0,
+    "price": 1000000,
+    "added": "2026-11-09",
+    "iv": 1794195768736
   }
 ]

@@ -2837,11 +2837,24 @@
     "title": "Mercedes-Benz G-Class Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8l6scxyir.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794188239547
+  },
+  {
+    "id": "umw8lcy9h22r",
+    "title": "Mercedes-Benz AMG GT Mansory",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8lcy9h22r.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 35000000,
+    "added": "2026-11-09",
+    "iv": 1794188316467
   }
 ]

@@ -3162,11 +3162,24 @@
     "title": "Ярость Миража",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qcpwctld.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-09",
     "iv": 1794196685559
+  },
+  {
+    "id": "umw8qdx7v4h6",
+    "title": "Rickshaw",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qdx7v4h6.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 1000000,
+    "added": "2026-11-09",
+    "iv": 1794196788235
   }
 ]

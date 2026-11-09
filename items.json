@@ -2772,11 +2772,24 @@
     "title": "Mazda RX-7 IMSA GTO",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8kxj9go1z.webp",
     "brand": "Mazda",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-09",
     "iv": 1794187614876
+  },
+  {
+    "id": "umw8kzm54iaj",
+    "title": "McLaren 570S Spider RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8kzm54iaj.webp",
+    "brand": "McLaren",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-09",
+    "iv": 1794187705945
   }
 ]

@@ -3604,11 +3604,24 @@
     "title": "Lamborghini Urus Speed Hunter",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9ce053z3n.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 80000000,
     "added": "2026-11-09",
     "iv": 1794233706765
+  },
+  {
+    "id": "umw9cfqwglpz",
+    "title": "Koenigsegg CCGT",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9cfqwglpz.webp",
+    "brand": "Koenigsegg",
+    "speed": 0,
+    "price": 70000000,
+    "added": "2026-11-09",
+    "iv": 1794233823324
   }
 ]

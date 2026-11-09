@@ -3578,11 +3578,24 @@
     "title": "Ferrari 375 F1",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw98yu9g2lk.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-09",
     "iv": 1794227940574
+  },
+  {
+    "id": "umw99036mhxt",
+    "title": "Ferrari Testarossa",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw99036mhxt.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-09",
+    "iv": 1794233625224
   }
 ]

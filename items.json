@@ -3682,11 +3682,24 @@
     "title": "Rolls-Royce Phantom Mansory RN",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9cqgpo79c.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 70000000,
     "added": "2026-11-09",
     "iv": 1794234286528
+  },
+  {
+    "id": "umw9cs5pjx9z",
+    "title": "Ferrari Corse Clienti 488",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9cs5pjx9z.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794234371675
   }
 ]

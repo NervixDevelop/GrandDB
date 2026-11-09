@@ -3669,11 +3669,24 @@
     "title": "Maybach G900 Metagarage Gold Edition",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9co2uj9f7.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 160000000,
     "added": "2026-11-09",
     "iv": 1794234167241
+  },
+  {
+    "id": "umw9cqgpo79c",
+    "title": "Rolls-Royce Phantom Mansory RN",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9cqgpo79c.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 70000000,
+    "added": "2026-11-09",
+    "iv": 1794234286528
   }
 ]

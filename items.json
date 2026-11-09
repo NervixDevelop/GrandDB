@@ -3279,11 +3279,24 @@
     "title": "Диван-мобиль",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw96rghiba4.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 12000000,
     "added": "2026-11-09",
     "iv": 1794224258896
+  },
+  {
+    "id": "umw96te0rtzr",
+    "title": "Super Kart",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw96te0rtzr.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-09",
+    "iv": 1794224360495
   }
 ]

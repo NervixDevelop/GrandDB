@@ -3617,11 +3617,24 @@
     "title": "Koenigsegg CCGT",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9cfqwglpz.webp",
     "brand": "Koenigsegg",
     "speed": 0,
     "price": 70000000,
     "added": "2026-11-09",
     "iv": 1794233823324
+  },
+  {
+    "id": "umw9ciqpq40x",
+    "title": "Mercedes SL63 Mansory",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9ciqpq40x.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794233907699
   }
 ]

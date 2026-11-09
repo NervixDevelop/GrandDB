@@ -3500,11 +3500,24 @@
     "title": "Batmobile V2",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw988cmjb42.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-09",
     "iv": 1794226736455
+  },
+  {
+    "id": "umw989yeg1h6",
+    "title": "Lamborghini Huracan GT3",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw989yeg1h6.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 12600000,
+    "added": "2026-11-09",
+    "iv": 1794226820627
   }
 ]

@@ -2759,11 +2759,24 @@
     "title": "Maybach G900 Metagarage",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8kvkpbhz3.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 70000000,
     "added": "2026-11-09",
     "iv": 1794187524241
+  },
+  {
+    "id": "umw8kxj9go1z",
+    "title": "Mazda RX-7 IMSA GTO",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8kxj9go1z.webp",
+    "brand": "Mazda",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-09",
+    "iv": 1794187614876
   }
 ]

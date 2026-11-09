@@ -3630,11 +3630,24 @@
     "title": "Mercedes SL63 Mansory",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9ciqpq40x.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794233907699
+  },
+  {
+    "id": "umw9ck8utnax",
+    "title": "Mercedes G63 Admin",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9ck8utnax.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-09",
+    "iv": 1794233996814
   }
 ]

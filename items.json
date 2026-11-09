@@ -2928,11 +2928,24 @@
     "title": "Mercedes-Benz GLC Coupe 250 PD",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8p7x41qpo.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-09",
     "iv": 1794194806740
+  },
+  {
+    "id": "umw8p9lxwce0",
+    "title": "Mercedes-Benz Maybach Vision 6 Widebody",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8p9lxwce0.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 80000000,
+    "added": "2026-11-09",
+    "iv": 1794195143980
   }
 ]

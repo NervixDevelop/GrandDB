@@ -2720,11 +2720,24 @@
     "title": "Magnaris XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw80089lpqi.webp",
     "brand": "LADA",
     "speed": 0,
     "price": 80000,
     "added": "2026-11-08",
     "iv": 1794152469822
+  },
+  {
+    "id": "umw8kpldcjjv",
+    "title": "Mars Rover",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8kpldcjjv.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 750000,
+    "added": "2026-11-09",
+    "iv": 1794187327757
   }
 ]

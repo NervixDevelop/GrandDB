@@ -3487,11 +3487,24 @@
     "title": "Ford Mustang Hoonigan",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9865cqncu.webp",
     "brand": "Ford",
     "speed": 0,
     "price": 9000000,
     "added": "2026-11-09",
     "iv": 1794226634575
+  },
+  {
+    "id": "umw988cmjb42",
+    "title": "Batmobile V2",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw988cmjb42.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-09",
+    "iv": 1794226736455
   }
 ]

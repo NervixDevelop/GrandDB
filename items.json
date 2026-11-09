@@ -3656,11 +3656,24 @@
     "title": "Mercedes-Benz 300SL",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9clvas2bb.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 100000000,
     "added": "2026-11-09",
     "iv": 1794234080596
+  },
+  {
+    "id": "umw9co2uj9f7",
+    "title": "Maybach G900 Metagarage Gold Edition",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw9co2uj9f7.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 160000000,
+    "added": "2026-11-09",
+    "iv": 1794234167241
   }
 ]

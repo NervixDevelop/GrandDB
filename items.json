@@ -3461,11 +3461,24 @@
     "title": "BMW I8 Liberty Walk",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw982syue0q.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-09",
     "iv": 1794226461867
+  },
+  {
+    "id": "umw984hf8fwv",
+    "title": "Mercedes-Benz W447",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw984hf8fwv.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-09",
+    "iv": 1794226546818
   }
 ]

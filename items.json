@@ -2785,11 +2785,24 @@
     "title": "McLaren 570S Spider RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8kzm54iaj.webp",
     "brand": "McLaren",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-09",
     "iv": 1794187705945
+  },
+  {
+    "id": "umw8l1ij9ahn",
+    "title": "McLaren 600LT EVO",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8l1ij9ahn.webp",
+    "brand": "McLaren",
+    "speed": 0,
+    "price": 25000000,
+    "added": "2026-11-09",
+    "iv": 1794187779256
   }
 ]

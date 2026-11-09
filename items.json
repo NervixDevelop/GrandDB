@@ -2876,11 +2876,24 @@
     "title": "Mercedes-Benz CLS63 S AMG RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8lh6b0ddz.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-09",
     "iv": 1794188630976
+  },
+  {
+    "id": "umw8ll581564",
+    "title": "Mercedes-Benz E63 PD Black",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8ll581564.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 3500000,
+    "added": "2026-11-09",
+    "iv": 1794189077395
   }
 ]

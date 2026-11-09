@@ -3006,11 +3006,24 @@
     "title": "Mercedes W223 RGB",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pp7n3dty.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-09",
     "iv": 1794195606274
+  },
+  {
+    "id": "umw8pqtis310",
+    "title": "Mercedes W230",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pqtis310.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 225000,
+    "added": "2026-11-09",
+    "iv": 1794195696666
   }
 ]

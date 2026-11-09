@@ -3175,11 +3175,24 @@
     "title": "Rickshaw",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qdx7v4h6.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 1000000,
     "added": "2026-11-09",
     "iv": 1794196788235
+  },
+  {
+    "id": "umw8qg74kae6",
+    "title": "Rolls-Royce Cullinan Keyvany",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qg74kae6.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-09",
+    "iv": 1794196881913
   }
 ]

@@ -3201,11 +3201,24 @@
     "title": "Rolls-Royce Phantom 6x6 NLOTO",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qisstjsk.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 35000000,
     "added": "2026-11-09",
     "iv": 1794196959911
+  },
+  {
+    "id": "umw8qk8s2at5",
+    "title": "Rolls-Royce Phantom Drophead",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qk8s2at5.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-09",
+    "iv": 1794197076095
   }
 ]

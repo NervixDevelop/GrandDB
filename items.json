@@ -2733,11 +2733,24 @@
     "title": "Mars Rover",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8kpldcjjv.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 750000,
     "added": "2026-11-09",
     "iv": 1794187327757
+  },
+  {
+    "id": "umw8kt9vqq8a",
+    "title": "Maserati Quattroporte",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8kt9vqq8a.webp",
+    "brand": "Maserati",
+    "speed": 0,
+    "price": 3000000,
+    "added": "2026-11-09",
+    "iv": 1794187423611
   }
 ]

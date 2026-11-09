@@ -3097,11 +3097,24 @@
     "title": "Nissan Titan",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8q2jq8bxg.webp",
     "brand": "Nissan",
     "speed": 0,
     "price": 7000000,
     "added": "2026-11-09",
     "iv": 1794196278861
+  },
+  {
+    "id": "umw8q54varff",
+    "title": "Porsche Boxster GTS",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8q54varff.webp",
+    "brand": "Porsche",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-09",
+    "iv": 1794196317176
   }
 ]

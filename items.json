@@ -3565,11 +3565,24 @@
     "title": "Rolls-Royce Wraith XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw98wfc88z9.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794227896514
+  },
+  {
+    "id": "umw98yu9g2lk",
+    "title": "Ferrari 375 F1",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw98yu9g2lk.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-09",
+    "iv": 1794227940574
   }
 ]

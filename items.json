@@ -2850,11 +2850,24 @@
     "title": "Mercedes-Benz AMG GT Mansory",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8lcy9h22r.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 35000000,
     "added": "2026-11-09",
     "iv": 1794188316467
+  },
+  {
+    "id": "umw8leg3bk83",
+    "title": "Mercedes-Benz AMG GT Police",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8leg3bk83.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-09",
+    "iv": 1794188410436
   }
 ]

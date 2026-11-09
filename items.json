@@ -3214,11 +3214,24 @@
     "title": "Rolls-Royce Phantom Drophead",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8qk8s2at5.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-09",
     "iv": 1794197076095
+  },
+  {
+    "id": "umw8qm9kf2k5",
+    "title": "Rolls-Royce Spectre Off-road",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8qm9kf2k5.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-09",
+    "iv": 1794197125757
   }
 ]

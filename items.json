@@ -3058,11 +3058,24 @@
     "title": "MR Kart 7",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8pwbqwepo.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-09",
     "iv": 1794195976807
+  },
+  {
+    "id": "umw8pymyznqy",
+    "title": "Mustang Dark Horse",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pymyznqy.webp",
+    "brand": "Mustang",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-09",
+    "iv": 1794196059887
   }
 ]

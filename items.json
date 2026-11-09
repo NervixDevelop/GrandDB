@@ -2954,11 +2954,24 @@
     "title": "Mercedes-Benz W124 500E",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8ph0cph4s.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-09",
     "iv": 1794195262810
+  },
+  {
+    "id": "umw8pjjqpug8",
+    "title": "Mercedes G63 AMG 6x6 RGB",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pjjqpug8.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-09",
+    "iv": 1794195334664
   }
 ]

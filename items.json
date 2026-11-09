@@ -3045,11 +3045,24 @@
     "title": "Mitsubishi Eclipse Spyder",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw8puxbuj1d.webp",
     "brand": "Mitsubish",
     "speed": 0,
     "price": 4000000,
     "added": "2026-11-09",
     "iv": 1794195843970
+  },
+  {
+    "id": "umw8pwbqwepo",
+    "title": "MR Kart 7",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umw8pwbqwepo.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-09",
+    "iv": 1794195976807
   }
 ]

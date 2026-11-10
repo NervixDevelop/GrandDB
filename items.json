@@ -3877,11 +3877,24 @@
     "title": "Ferrari Enzo",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa39e4t2me.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 35000000,
     "added": "2026-11-10",
     "iv": 1794278836851
+  },
+  {
+    "id": "umwa3b5blj4j",
+    "title": "Bugatti La Voiture Noire Body Kit",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3b5blj4j.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 60000000,
+    "added": "2026-11-10",
+    "iv": 1794278910501
   }
 ]

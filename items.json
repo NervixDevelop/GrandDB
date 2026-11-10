@@ -3942,11 +3942,24 @@
     "title": "BMW M5 F90 XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3htsf817.webp",
     "brand": "BMW",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-10",
     "iv": 1794279228706
+  },
+  {
+    "id": "umwa3jgf9ivy",
+    "title": "Renault Sport RS 01",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3jgf9ivy.webp",
+    "brand": "Renault",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-10",
+    "iv": 1794279302183
   }
 ]

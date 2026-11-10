@@ -3864,11 +3864,24 @@
     "title": "Bugatti Mistral",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa37pf67h6.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 120000000,
     "added": "2026-11-10",
     "iv": 1794278766285
+  },
+  {
+    "id": "umwa39e4t2me",
+    "title": "Ferrari Enzo",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa39e4t2me.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 35000000,
+    "added": "2026-11-10",
+    "iv": 1794278836851
   }
 ]

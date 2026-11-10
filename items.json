@@ -3929,11 +3929,24 @@
     "title": "Arash AF10",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3fkcou81.webp",
     "brand": "Arash",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-10",
     "iv": 1794279159476
+  },
+  {
+    "id": "umwa3htsf817",
+    "title": "BMW M5 F90 XMAS",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3htsf817.webp",
+    "brand": "BMW",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-10",
+    "iv": 1794279228706
   }
 ]

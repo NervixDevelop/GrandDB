@@ -3708,11 +3708,24 @@
     "title": "Audi RS Q8 Mansory Urus",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2h6cydom.webp",
     "brand": "Audi",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794277598324
+  },
+  {
+    "id": "umwa2kbzx3xg",
+    "title": "Chevrolet Summit Racing Pro",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2kbzx3xg.webp",
+    "brand": "Chevrolet",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-10",
+    "iv": 1794277688863
   }
 ]

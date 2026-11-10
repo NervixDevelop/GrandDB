@@ -3981,11 +3981,24 @@
     "title": "Mazda RX-7 Spirit R",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3mb5hmdq.webp",
     "brand": "Mazda",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794279440708
+  },
+  {
+    "id": "umwa3nweq4pc",
+    "title": "Hummer EV Pickup",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3nweq4pc.webp",
+    "brand": "Hummer",
+    "speed": 0,
+    "price": 16000000,
+    "added": "2026-11-10",
+    "iv": 1794279524210
   }
 ]

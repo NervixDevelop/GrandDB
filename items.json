@@ -3721,11 +3721,24 @@
     "title": "Chevrolet Summit Racing Pro",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2kbzx3xg.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-10",
     "iv": 1794277688863
+  },
+  {
+    "id": "umwa2melcyf0",
+    "title": "Chevrolet Avalanche",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2melcyf0.webp",
+    "brand": "Chevrolet",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794277752213
   }
 ]

@@ -3747,11 +3747,24 @@
     "title": "Toyota Land Cruiser 200 WALD 6x6",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2nwkl9zo.webp",
     "brand": "Toyota",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-10",
     "iv": 1794277827745
+  },
+  {
+    "id": "umwa2p71j1eo",
+    "title": "Audi RS6 DTM",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2p71j1eo.webp",
+    "brand": "Audi",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-10",
+    "iv": 1794277915819
   }
 ]

@@ -3968,11 +3968,24 @@
     "title": "Porsche Carrera GT Liberty Walk",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3kx36dvj.webp",
     "brand": "Porsche",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794279365101
+  },
+  {
+    "id": "umwa3mb5hmdq",
+    "title": "Mazda RX-7 Spirit R",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3mb5hmdq.webp",
+    "brand": "Mazda",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794279440708
   }
 ]

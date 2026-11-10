@@ -4072,11 +4072,24 @@
     "title": "Mercedes-Benz E63 PD",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3xpz2sve.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 2500000,
     "added": "2026-11-10",
     "iv": 1794279953219
+  },
+  {
+    "id": "umwa3z08jlat",
+    "title": "Mercedes-Benz GLS 800 Brabus",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3z08jlat.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 2000000,
+    "added": "2026-11-10",
+    "iv": 1794280029175
   }
 ]

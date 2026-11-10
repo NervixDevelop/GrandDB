@@ -3734,11 +3734,24 @@
     "title": "Chevrolet Avalanche",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2melcyf0.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794277752213
+  },
+  {
+    "id": "umwa2nwkl9zo",
+    "title": "Toyota Land Cruiser 200 WALD 6x6",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2nwkl9zo.webp",
+    "brand": "Toyota",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-10",
+    "iv": 1794277827745
   }
 ]

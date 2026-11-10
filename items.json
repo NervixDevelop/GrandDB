@@ -4124,10 +4124,22 @@
     "title": "Скин Аяма",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwap00pwsfu.webp",
-    "rarity": "Эпический",
     "gender": "Женский",
+    "rarity": "Эпический",
     "added": "2026-11-10",
     "iv": 1794315363091
+  },
+  {
+    "id": "umwap1wgkixz",
+    "title": "Скин (ID: 127)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwap1wgkixz.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-10",
+    "iv": 1794315463609
   }
 ]

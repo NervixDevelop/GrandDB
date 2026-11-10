@@ -3916,11 +3916,24 @@
     "title": "Стальной бастион",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3dvgb2wl.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-10",
     "iv": 1794279056656
+  },
+  {
+    "id": "umwa3fkcou81",
+    "title": "Arash AF10",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3fkcou81.webp",
+    "brand": "Arash",
+    "speed": 0,
+    "price": 10000000,
+    "added": "2026-11-10",
+    "iv": 1794279159476
   }
 ]

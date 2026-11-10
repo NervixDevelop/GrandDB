@@ -4111,11 +4111,23 @@
     "title": "Tesla Roadster XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa426smh9z.webp",
     "brand": "Tesla",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794280172025
+  },
+  {
+    "id": "umwap00pwsfu",
+    "title": "Скин Аяма",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwap00pwsfu.webp",
+    "rarity": "Эпический",
+    "gender": "Женский",
+    "added": "2026-11-10",
+    "iv": 1794315363091
   }
 ]

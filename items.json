@@ -3812,11 +3812,24 @@
     "title": "Bugatti Chiron Pur Sport Widebody",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa31b39g0e.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 110000000,
     "added": "2026-11-10",
     "iv": 1794278469483
+  },
+  {
+    "id": "umwa334rgvia",
+    "title": "Rolls-Royce Phantom WALD",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa334rgvia.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 40000000,
+    "added": "2026-11-10",
+    "iv": 1794278535949
   }
 ]

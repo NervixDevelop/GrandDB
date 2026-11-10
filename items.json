@@ -4033,11 +4033,24 @@
     "title": "Chevrolet Corvette Daytona PRTP",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3sv5nyba.webp",
     "brand": "Chevrolet",
     "speed": 0,
     "price": 10000000,
     "added": "2026-11-10",
     "iv": 1794279740251
+  },
+  {
+    "id": "umwa3uehyv2t",
+    "title": "Lamborghini Hydra Concept",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3uehyv2t.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794279817880
   }
 ]

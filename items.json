@@ -3903,11 +3903,24 @@
     "title": "Багги",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3cej0t0r.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-10",
     "iv": 1794278975088
+  },
+  {
+    "id": "umwa3dvgb2wl",
+    "title": "Стальной бастион",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3dvgb2wl.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-10",
+    "iv": 1794279056656
   }
 ]

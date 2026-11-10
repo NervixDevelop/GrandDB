@@ -3799,11 +3799,24 @@
     "title": "Rolls-Royce Phantom 6x6 XMAS",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2xwxiba7.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 50000000,
     "added": "2026-11-10",
     "iv": 1794278381958
+  },
+  {
+    "id": "umwa31b39g0e",
+    "title": "Bugatti Chiron Pur Sport Widebody",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa31b39g0e.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 110000000,
+    "added": "2026-11-10",
+    "iv": 1794278469483
   }
 ]

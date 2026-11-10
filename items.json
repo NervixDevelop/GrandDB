@@ -3773,11 +3773,24 @@
     "title": "Batmobile",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2ruy4z8f.webp",
     "brand": "Classic",
     "speed": 0,
     "price": 15000000,
     "added": "2026-11-10",
     "iv": 1794278156937
+  },
+  {
+    "id": "umwa2wu1y253",
+    "title": "Aston Martin Valkyrie",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2wu1y253.webp",
+    "brand": "Aston Martin",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-10",
+    "iv": 1794278232805
   }
 ]

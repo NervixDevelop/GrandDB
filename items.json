@@ -3890,11 +3890,24 @@
     "title": "Bugatti La Voiture Noire Body Kit",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3b5blj4j.webp",
     "brand": "Bugatti",
     "speed": 0,
     "price": 60000000,
     "added": "2026-11-10",
     "iv": 1794278910501
+  },
+  {
+    "id": "umwa3cej0t0r",
+    "title": "Багги",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3cej0t0r.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 5000000,
+    "added": "2026-11-10",
+    "iv": 1794278975088
   }
 ]

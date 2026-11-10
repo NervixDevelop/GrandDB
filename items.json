@@ -3760,11 +3760,24 @@
     "title": "Audi RS6 DTM",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2p71j1eo.webp",
     "brand": "Audi",
     "speed": 0,
     "price": 5000000,
     "added": "2026-11-10",
     "iv": 1794277915819
+  },
+  {
+    "id": "umwa2ruy4z8f",
+    "title": "Batmobile",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2ruy4z8f.webp",
+    "brand": "Classic",
+    "speed": 0,
+    "price": 15000000,
+    "added": "2026-11-10",
+    "iv": 1794278156937
   }
 ]

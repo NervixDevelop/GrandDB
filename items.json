@@ -3825,11 +3825,24 @@
     "title": "Rolls-Royce Phantom WALD",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa334rgvia.webp",
     "brand": "Rolls-Royce",
     "speed": 0,
     "price": 40000000,
     "added": "2026-11-10",
     "iv": 1794278535949
+  },
+  {
+    "id": "umwa34gup4j1",
+    "title": "Mercedes Maybach Vision 6",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa34gup4j1.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 85000000,
+    "added": "2026-11-10",
+    "iv": 1794278620554
   }
 ]

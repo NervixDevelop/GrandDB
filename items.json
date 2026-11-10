@@ -4046,11 +4046,24 @@
     "title": "Lamborghini Hydra Concept",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3uehyv2t.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794279817880
+  },
+  {
+    "id": "umwa3w26rsq8",
+    "title": "Toyota RAV4",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3w26rsq8.webp",
+    "brand": "Toyota",
+    "speed": 0,
+    "price": 3500000,
+    "added": "2026-11-10",
+    "iv": 1794279896538
   }
 ]

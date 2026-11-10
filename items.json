@@ -3851,11 +3851,24 @@
     "title": "Lamborghini Aventador SVJ PD",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa36as019d.webp",
     "brand": "Lamborghini",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-10",
     "iv": 1794278686545
+  },
+  {
+    "id": "umwa37pf67h6",
+    "title": "Bugatti Mistral",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa37pf67h6.webp",
+    "brand": "Bugatti",
+    "speed": 0,
+    "price": 120000000,
+    "added": "2026-11-10",
+    "iv": 1794278766285
   }
 ]

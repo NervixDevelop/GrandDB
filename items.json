@@ -4085,11 +4085,24 @@
     "title": "Mercedes-Benz GLS 800 Brabus",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3z08jlat.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 2000000,
     "added": "2026-11-10",
     "iv": 1794280029175
+  },
+  {
+    "id": "umwa40ptyq3j",
+    "title": "Mercedes S600",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa40ptyq3j.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 650000,
+    "added": "2026-11-10",
+    "iv": 1794280101025
   }
 ]

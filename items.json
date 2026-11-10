@@ -4098,11 +4098,24 @@
     "title": "Mercedes S600",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa40ptyq3j.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 650000,
     "added": "2026-11-10",
     "iv": 1794280101025
+  },
+  {
+    "id": "umwa426smh9z",
+    "title": "Tesla Roadster XMAS",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa426smh9z.webp",
+    "brand": "Tesla",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794280172025
   }
 ]

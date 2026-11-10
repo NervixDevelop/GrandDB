@@ -3695,11 +3695,24 @@
     "title": "Ferrari Corse Clienti 488",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umw9cs5pjx9z.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 30000000,
     "added": "2026-11-09",
     "iv": 1794234371675
+  },
+  {
+    "id": "umwa2h6cydom",
+    "title": "Audi RS Q8 Mansory Urus",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2h6cydom.webp",
+    "brand": "Audi",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794277598324
   }
 ]

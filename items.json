@@ -3955,11 +3955,24 @@
     "title": "Renault Sport RS 01",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3jgf9ivy.webp",
     "brand": "Renault",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-10",
     "iv": 1794279302183
+  },
+  {
+    "id": "umwa3kx36dvj",
+    "title": "Porsche Carrera GT Liberty Walk",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3kx36dvj.webp",
+    "brand": "Porsche",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794279365101
   }
 ]

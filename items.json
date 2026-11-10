@@ -3838,11 +3838,24 @@
     "title": "Mercedes Maybach Vision 6",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa34gup4j1.webp",
     "brand": "Mercedes-Benz",
     "speed": 0,
     "price": 85000000,
     "added": "2026-11-10",
     "iv": 1794278620554
+  },
+  {
+    "id": "umwa36as019d",
+    "title": "Lamborghini Aventador SVJ PD",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa36as019d.webp",
+    "brand": "Lamborghini",
+    "speed": 0,
+    "price": 30000000,
+    "added": "2026-11-10",
+    "iv": 1794278686545
   }
 ]

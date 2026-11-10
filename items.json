@@ -3994,11 +3994,24 @@
     "title": "Hummer EV Pickup",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3nweq4pc.webp",
     "brand": "Hummer",
     "speed": 0,
     "price": 16000000,
     "added": "2026-11-10",
     "iv": 1794279524210
+  },
+  {
+    "id": "umwa3pn86ggy",
+    "title": "Ferrari F430 Горячая Штучка",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3pn86ggy.webp",
+    "brand": "Ferrari",
+    "speed": 0,
+    "price": 20000000,
+    "added": "2026-11-10",
+    "iv": 1794279594733
   }
 ]

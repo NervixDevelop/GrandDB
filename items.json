@@ -3786,11 +3786,24 @@
     "title": "Aston Martin Valkyrie",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa2wu1y253.webp",
     "brand": "Aston Martin",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-10",
     "iv": 1794278232805
+  },
+  {
+    "id": "umwa2xwxiba7",
+    "title": "Rolls-Royce Phantom 6x6 XMAS",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa2xwxiba7.webp",
+    "brand": "Rolls-Royce",
+    "speed": 0,
+    "price": 50000000,
+    "added": "2026-11-10",
+    "iv": 1794278381958
   }
 ]

@@ -4059,11 +4059,24 @@
     "title": "Toyota RAV4",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3w26rsq8.webp",
     "brand": "Toyota",
     "speed": 0,
     "price": 3500000,
     "added": "2026-11-10",
     "iv": 1794279896538
+  },
+  {
+    "id": "umwa3xpz2sve",
+    "title": "Mercedes-Benz E63 PD",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3xpz2sve.webp",
+    "brand": "Mercedes-Benz",
+    "speed": 0,
+    "price": 2500000,
+    "added": "2026-11-10",
+    "iv": 1794279953219
   }
 ]

@@ -4007,11 +4007,24 @@
     "title": "Ferrari F430 Горячая Штучка",
     "cat": "transport",
     "sub": "Автомобиль",
+    "type": "Автомобиль",
     "img": "images/umwa3pn86ggy.webp",
     "brand": "Ferrari",
     "speed": 0,
     "price": 20000000,
     "added": "2026-11-10",
     "iv": 1794279594733
+  },
+  {
+    "id": "umwa3rqdspcp",
+    "title": "Porsche 992 GT3R Roxy",
+    "cat": "transport",
+    "sub": "Автомобиль",
+    "img": "images/umwa3rqdspcp.webp",
+    "brand": "Porsche",
+    "speed": 0,
+    "price": 14000000,
+    "added": "2026-11-10",
+    "iv": 1794279669929
   }
 ]

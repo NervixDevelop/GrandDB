@@ -4424,10 +4424,22 @@
     "title": "Скин Кейтли",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwc3qfqii82.webp",
+    "gender": "Женский",
+    "rarity": "Эпический",
+    "added": "2026-11-11",
+    "iv": 1794400564181
+  },
+  {
+    "id": "umwc3rxy5h2r",
+    "title": "Скин (ID: 2187)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwc3rxy5h2r.webp",
     "rarity": "Эпический",
     "gender": "Женский",
     "added": "2026-11-11",
-    "iv": 1794400564181
+    "iv": 1794400655898
   }
 ]

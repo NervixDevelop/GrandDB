@@ -4340,10 +4340,22 @@
     "title": "Скин (ID: 2212)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwbd4f3f04d.webp",
+    "gender": "Женский",
+    "rarity": "Эпический",
+    "added": "2026-11-11",
+    "iv": 1794355878737
+  },
+  {
+    "id": "umwbd5vavezy",
+    "title": "Скин (ID: 2349)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwbd5vavezy.webp",
     "rarity": "Эпический",
     "gender": "Женский",
     "added": "2026-11-11",
-    "iv": 1794355878737
+    "iv": 1794357370721
   }
 ]

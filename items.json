@@ -4280,10 +4280,22 @@
     "title": "Скин (ID: 17776)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwbcuzqw9bf.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-11",
+    "iv": 1794355453413
+  },
+  {
+    "id": "umwbcwvrp1eg",
+    "title": "Скин (ID: 17778)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwbcwvrp1eg.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-11",
-    "iv": 1794355453413
+    "iv": 1794355534684
   }
 ]

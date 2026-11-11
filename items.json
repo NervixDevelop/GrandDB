@@ -4244,10 +4244,22 @@
     "title": "Скин Женский На Роликах",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwbcpx69b42.webp",
-    "rarity": "Эпический",
     "gender": "Женский",
+    "rarity": "Эпический",
     "added": "2026-11-11",
     "iv": 1794355214322
+  },
+  {
+    "id": "umwbcrty6ros",
+    "title": "Скин (ID: 143)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwbcrty6ros.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-11",
+    "iv": 1794355283574
   }
 ]

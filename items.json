@@ -4556,10 +4556,22 @@
     "title": "Скин Лейси",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwc4gtz3tuy.webp",
-    "rarity": "Эпический",
     "gender": "Женский",
+    "rarity": "Эпический",
     "added": "2026-11-11",
     "iv": 1794401821439
+  },
+  {
+    "id": "umwc4imnhhsm",
+    "title": "Скин Шрека",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwc4imnhhsm.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-11",
+    "iv": 1794401896655
   }
 ]

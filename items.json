@@ -4652,10 +4652,22 @@
     "title": "Скин (ID: 2160)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdmuhriz5w.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493163136
+  },
+  {
+    "id": "umwdmwgirwov",
+    "title": "Скин Боевой Кролик",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdmwgirwov.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493163136
+    "iv": 1794493237354
   }
 ]

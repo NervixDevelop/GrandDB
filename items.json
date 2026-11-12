@@ -4580,10 +4580,22 @@
     "title": "Скин Red Wink",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdjk9wn49z.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794487639762
+  },
+  {
+    "id": "umwdjtm87jy8",
+    "title": "Скин Котэ",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdjtm87jy8.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794487639762
+    "iv": 1794488036595
   }
 ]

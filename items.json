@@ -4568,10 +4568,22 @@
     "title": "Скин Шрека",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwc4imnhhsm.webp",
-    "rarity": "Эпический",
     "gender": "Мужской",
+    "rarity": "Эпический",
     "added": "2026-11-11",
     "iv": 1794401896655
+  },
+  {
+    "id": "umwdjk9wn49z",
+    "title": "Скин Red Wink",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdjk9wn49z.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-12",
+    "iv": 1794487639762
   }
 ]

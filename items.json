@@ -4700,10 +4700,22 @@
     "title": "Скин Мистерио",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdn28vpjv4.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493516993
+  },
+  {
+    "id": "umwdn3ydnsqx",
+    "title": "Скин Пистолетова",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdn3ydnsqx.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493516993
+    "iv": 1794493596650
   }
 ]

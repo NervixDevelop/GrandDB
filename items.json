@@ -4604,10 +4604,22 @@
     "title": "Скин Самурайка",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdjurxlkrw.webp",
+    "gender": "Женский",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794488129362
+  },
+  {
+    "id": "umwdjwx84xhm",
+    "title": "Скин (ID: 2163)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdjwx84xhm.webp",
     "rarity": "Эпический",
     "gender": "Женский",
     "added": "2026-11-12",
-    "iv": 1794488129362
+    "iv": 1794488227259
   }
 ]

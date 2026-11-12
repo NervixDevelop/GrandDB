@@ -4712,10 +4712,22 @@
     "title": "Скин Пистолетова",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdn3ydnsqx.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493596650
+  },
+  {
+    "id": "umwdn5sfm810",
+    "title": "Скин (ID: 2842)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdn5sfm810.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493596650
+    "iv": 1794493689783
   }
 ]

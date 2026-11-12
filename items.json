@@ -4772,10 +4772,22 @@
     "title": "Скин Путешественник",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdnd33rooz.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794494024551
+  },
+  {
+    "id": "umwdney5oljo",
+    "title": "Скин (ID: 17689)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdney5oljo.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794494024551
+    "iv": 1794494112065
   }
 ]

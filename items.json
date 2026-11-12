@@ -4664,10 +4664,22 @@
     "title": "Скин Боевой Кролик",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdmwgirwov.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493237354
+  },
+  {
+    "id": "umwdmy54podb",
+    "title": "Скин (ID: 2823)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdmy54podb.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493237354
+    "iv": 1794493348194
   }
 ]

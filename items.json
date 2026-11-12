@@ -4592,10 +4592,22 @@
     "title": "Скин Котэ",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdjtm87jy8.webp",
-    "rarity": "Эпический",
     "gender": "Мужской",
+    "rarity": "Эпический",
     "added": "2026-11-12",
     "iv": 1794488036595
+  },
+  {
+    "id": "umwdjurxlkrw",
+    "title": "Скин Самурайка",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdjurxlkrw.webp",
+    "rarity": "Эпический",
+    "gender": "Женский",
+    "added": "2026-11-12",
+    "iv": 1794488129362
   }
 ]

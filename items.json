@@ -4688,10 +4688,22 @@
     "title": "Скин (ID: 17748)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdn0oij7ft.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493431000
+  },
+  {
+    "id": "umwdn28vpjv4",
+    "title": "Скин Мистерио",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdn28vpjv4.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493431000
+    "iv": 1794493516993
   }
 ]

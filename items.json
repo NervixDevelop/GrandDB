@@ -4748,10 +4748,22 @@
     "title": "Скин (ID: 2548)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwdn9ci3628.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-12",
+    "iv": 1794493860486
+  },
+  {
+    "id": "umwdnbau39ko",
+    "title": "Скин (ID: 17683)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwdnbau39ko.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-12",
-    "iv": 1794493860486
+    "iv": 1794493943677
   }
 ]

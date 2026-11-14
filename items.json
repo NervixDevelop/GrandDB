@@ -4904,10 +4904,22 @@
     "title": "Скин Cosmobear",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwgrr2rd732.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-14",
+    "iv": 1794682863806
+  },
+  {
+    "id": "umwgrubcm85d",
+    "title": "Скин Razor",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwgrubcm85d.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-14",
-    "iv": 1794682863806
+    "iv": 1794682970657
   }
 ]

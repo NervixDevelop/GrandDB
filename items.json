@@ -4856,10 +4856,33 @@
     "title": "Скин (ID: 17668)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwgk6brcdyn.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-14",
+    "iv": 1794670048054
+  },
+  {
+    "id": "umwgk7qtdadx",
+    "title": "Скин (ID: 17733)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwgk7qtdadx.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-14",
-    "iv": 1794670048054
+    "iv": 1794670141660
+  },
+  {
+    "id": "umwgka6haixi",
+    "title": "Скин (ID: 17724)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwgka6haixi.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-14",
+    "iv": 1794670227782
   }
 ]

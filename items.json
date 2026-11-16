@@ -4976,10 +4976,22 @@
     "title": "Скин (ID: 17722)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umwjuuo5qha7.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-16",
+    "iv": 1794870249624
+  },
+  {
+    "id": "umwjvf0chrss",
+    "title": "Скин Хазбик №2",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umwjvf0chrss.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-16",
-    "iv": 1794870249624
+    "iv": 1794870324990
   }
 ]

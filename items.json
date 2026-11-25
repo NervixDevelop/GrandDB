@@ -5084,10 +5084,22 @@
     "title": "Скин (ID: 2354)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umww661sa3ep.webp",
-    "rarity": "Эпический",
     "gender": "Женский",
+    "rarity": "Эпический",
     "added": "2026-11-25",
     "iv": 1795613972400
+  },
+  {
+    "id": "umww67lgujpi",
+    "title": "Скин (ID: 2355)",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umww67lgujpi.webp",
+    "rarity": "Эпический",
+    "gender": "Мужской",
+    "added": "2026-11-25",
+    "iv": 1795614075218
   }
 ]

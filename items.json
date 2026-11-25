@@ -5120,10 +5120,22 @@
     "title": "Скин (ID: 2357)",
     "cat": "cloth",
     "sub": "Костюм",
+    "type": "Костюм",
     "img": "images/umww6b749gzx.webp",
+    "gender": "Мужской",
+    "rarity": "Эпический",
+    "added": "2026-11-25",
+    "iv": 1795614222323
+  },
+  {
+    "id": "umww6cslwja6",
+    "title": "Скин Скорпион",
+    "cat": "cloth",
+    "sub": "Костюм",
+    "img": "images/umww6cslwja6.webp",
     "rarity": "Эпический",
     "gender": "Мужской",
     "added": "2026-11-25",
-    "iv": 1795614222323
+    "iv": 1795614340958
   }
 ]
